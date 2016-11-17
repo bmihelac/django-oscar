@@ -3,20 +3,22 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-16 10:35+0100\n"
-"PO-Revision-Date: 2011-02-15 02:47\n"
-"Last-Translator:   <bmihelac@mihelac.org>\n"
-"Language-Team: Bojan Mihelac <bmihelac@mihelac.org>\n"
+"POT-Creation-Date: 2016-11-17 08:15+0100\n"
+"PO-Revision-Date: 2016-10-14 11:18\n"
+"Last-Translator:   <admin@mihelac.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+"X-Translated-Using: django-rosetta 0.6.8\n"
 
 #: apps/address/abstract_models.py:26
 msgid "Mr"
@@ -48,14 +50,14 @@ msgstr ""
 #: templates/oscar/dashboard/partners/partner_user_list.html:44
 #: templates/oscar/dashboard/partners/partner_user_select.html:50
 msgid "First name"
-msgstr ""
+msgstr "Ime"
 
 #: apps/address/abstract_models.py:222 apps/customer/abstract_models.py:61
 #: templates/oscar/dashboard/partners/partner_manage.html:43
 #: templates/oscar/dashboard/partners/partner_user_list.html:45
 #: templates/oscar/dashboard/partners/partner_user_select.html:51
 msgid "Last name"
-msgstr ""
+msgstr "Prezime"
 
 #: apps/address/abstract_models.py:226
 msgid "First line of address"
@@ -282,7 +284,7 @@ msgstr ""
 #: templates/oscar/dashboard/users/alerts/list.html:44
 #: templates/oscar/dashboard/users/alerts/partials/alert.html:6
 msgid "Product"
-msgstr "Artikal"
+msgstr "Artikl"
 
 #: apps/analytics/abstract_models.py:24 apps/analytics/reports.py:20
 #: templates/oscar/dashboard/reports/partials/product_report.html:9
@@ -463,8 +465,9 @@ msgstr ""
 
 #: apps/analytics/reports.py:67
 #: templates/oscar/dashboard/reports/partials/user_report.html:15
+#, fuzzy
 msgid "Order items"
-msgstr "Stavke narudžbe"
+msgstr "Narudžbe"
 
 #: apps/analytics/reports.py:68
 #: templates/oscar/dashboard/reports/partials/user_report.html:16
@@ -529,8 +532,9 @@ msgstr ""
 #: templates/oscar/dashboard/users/alerts/partials/alert.html:20
 #: templates/oscar/dashboard/users/detail.html:124
 #: templates/oscar/dashboard/vouchers/voucher_list.html:54
+#, fuzzy
 msgid "Status"
-msgstr "Status"
+msgstr "Status narudžbe"
 
 #: apps/basket/abstract_models.py:53 apps/dashboard/vouchers/views.py:71
 #: apps/voucher/abstract_models.py:64 defaults.py:180
@@ -625,7 +629,7 @@ msgstr "Količina"
 #: apps/partner/abstract_models.py:106 apps/payment/abstract_models.py:76
 #: templates/oscar/dashboard/catalogue/product_update.html:198
 msgid "Currency"
-msgstr ""
+msgstr "Valuta"
 
 #: apps/basket/abstract_models.py:612
 msgid "Price excl. Tax"
@@ -678,12 +682,12 @@ msgstr ""
 #: apps/catalogue/abstract_models.py:1051 apps/order/abstract_models.py:736
 #: apps/order/abstract_models.py:760
 msgid "Option"
-msgstr ""
+msgstr "Opcija"
 
 #: apps/basket/abstract_models.py:875 apps/offer/abstract_models.py:413
 #: apps/offer/abstract_models.py:642 apps/order/abstract_models.py:738
 msgid "Value"
-msgstr ""
+msgstr "Vrijednost"
 
 #: apps/basket/abstract_models.py:880
 msgid "Line attribute"
@@ -713,7 +717,7 @@ msgstr ""
 #: templates/oscar/dashboard/vouchers/voucher_detail.html:33
 #: templates/oscar/dashboard/vouchers/voucher_list.html:53
 msgid "Code"
-msgstr ""
+msgstr "Šifra"
 
 #: apps/basket/forms.py:185
 msgid "Variant"
@@ -761,7 +765,7 @@ msgstr ""
 #: templates/oscar/dashboard/reports/partials/user_report.html:8
 #: templates/oscar/dashboard/users/detail.html:36
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: apps/basket/reports.py:21 apps/basket/reports.py:79
 msgid "Basket status"
@@ -872,7 +876,7 @@ msgstr ""
 
 #: apps/catalogue/abstract_models.py:68 apps/catalogue/abstract_models.py:1052
 msgid "Options"
-msgstr ""
+msgstr "Opcije"
 
 #: apps/catalogue/abstract_models.py:74 apps/catalogue/abstract_models.py:579
 msgid "Product class"
@@ -889,20 +893,20 @@ msgstr ""
 #: templates/oscar/dashboard/offers/summary.html:12
 #: templates/oscar/dashboard/shipping/weight_based_detail.html:35
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 #: apps/catalogue/abstract_models.py:95 apps/catalogue/abstract_models.py:754
 #: apps/dashboard/catalogue/tables.py:19 apps/promotions/models.py:181
 #: apps/promotions/models.py:190 apps/promotions/models.py:191
 msgid "Image"
-msgstr ""
+msgstr "Slika"
 
 #: apps/catalogue/abstract_models.py:213 apps/catalogue/abstract_models.py:230
 #: apps/customer/abstract_models.py:167
 #: templates/oscar/dashboard/catalogue/product_update.html:124
 #: templates/oscar/dashboard/comms/list.html:33
 msgid "Category"
-msgstr ""
+msgstr "Kategorija"
 
 #: apps/catalogue/abstract_models.py:214 apps/catalogue/abstract_models.py:329
 #: apps/catalogue/abstract_models.py:599 defaults.py:118
@@ -914,7 +918,7 @@ msgstr ""
 #: templates/oscar/dashboard/catalogue/category_list.html:24
 #: templates/oscar/dashboard/catalogue/product_update.html:73
 msgid "Categories"
-msgstr ""
+msgstr "Kategorije"
 
 #: apps/catalogue/abstract_models.py:237
 msgid "Product category"
@@ -1015,7 +1019,7 @@ msgstr ""
 
 #: apps/catalogue/abstract_models.py:319 defaults.py:225
 msgid "Rating"
-msgstr ""
+msgstr "Ocjena"
 
 #: apps/catalogue/abstract_models.py:325 apps/partner/abstract_models.py:148
 msgid "Date updated"
@@ -1568,8 +1572,9 @@ msgid "No order found"
 msgstr ""
 
 #: apps/customer/abstract_models.py:57
+#, fuzzy
 msgid "email address"
-msgstr ""
+msgstr "E-mail adrese"
 
 #: apps/customer/abstract_models.py:63
 msgid "Staff status"
@@ -1719,7 +1724,7 @@ msgstr ""
 
 #: apps/customer/abstract_models.py:331
 msgid "Cancelled"
-msgstr "Otkazano"
+msgstr ""
 
 #: apps/customer/abstract_models.py:332 apps/partner/abstract_models.py:242
 #: templates/oscar/dashboard/catalogue/stockalert_list.html:39
@@ -1786,8 +1791,9 @@ msgstr ""
 
 #: apps/customer/config.py:8
 #: templates/oscar/dashboard/orders/order_list.html:121
+#, fuzzy
 msgid "Customer"
-msgstr ""
+msgstr "Korisničke recenzije"
 
 #: apps/customer/forms.py:100 apps/customer/forms.py:135
 #: apps/dashboard/partners/forms.py:127
@@ -1800,7 +1806,7 @@ msgstr ""
 #: apps/customer/forms.py:120 apps/customer/forms.py:137
 #: apps/dashboard/partners/forms.py:76
 msgid "Password"
-msgstr ""
+msgstr "Lozinka"
 
 #: apps/customer/forms.py:130
 msgid "The entered password is not valid!"
@@ -1937,7 +1943,7 @@ msgstr ""
 
 #: apps/customer/views.py:309
 msgid "Edit Profile"
-msgstr ""
+msgstr "Uredite vaš profil"
 
 #: apps/customer/views.py:347
 msgid "Profile updated"
@@ -1953,7 +1959,7 @@ msgstr ""
 
 #: apps/customer/views.py:375
 msgid "Change Password"
-msgstr ""
+msgstr "Promjena lozinke"
 
 #: apps/customer/views.py:387
 msgid "Password updated"
@@ -2022,7 +2028,7 @@ msgstr ""
 #: templates/oscar/checkout/user_address_form.html:5
 #: templates/oscar/checkout/user_address_form.html:17
 msgid "Edit address"
-msgstr ""
+msgstr "Uredi adresu"
 
 #: apps/customer/views.py:676
 #, python-format
@@ -2154,7 +2160,7 @@ msgstr ""
 #: apps/dashboard/catalogue/tables.py:15
 #: templates/oscar/dashboard/catalogue/product_update.html:254
 msgid "Title"
-msgstr ""
+msgstr "Naziv"
 
 #: apps/dashboard/catalogue/tables.py:27
 #: templates/oscar/dashboard/catalogue/product_update.html:85
@@ -2187,8 +2193,9 @@ msgstr ""
 #: templates/oscar/dashboard/users/alerts/list.html:72
 #: templates/oscar/dashboard/users/detail.html:87
 #: templates/oscar/dashboard/vouchers/voucher_list.html:83
+#, fuzzy
 msgid "Actions"
-msgstr ""
+msgstr "Opcije"
 
 #: apps/dashboard/catalogue/tables.py:59
 msgid "Number of child categories"
@@ -2427,7 +2434,7 @@ msgstr ""
 #: templates/oscar/dashboard/vouchers/voucher_list.html:13
 #: templates/oscar/partials/nav_accounts.html:47
 msgid "Dashboard"
-msgstr ""
+msgstr "Nadzorna ploča"
 
 #: apps/dashboard/offers/config.py:8
 msgid "Offers dashboard"
@@ -2611,6 +2618,7 @@ msgid "Voucher code"
 msgstr ""
 
 #: apps/dashboard/orders/forms.py:88
+#, fuzzy
 msgid "Payment method"
 msgstr "Način plaćanja"
 
@@ -3903,7 +3911,7 @@ msgstr ""
 
 #: apps/order/abstract_models.py:32
 msgid "Site"
-msgstr ""
+msgstr "Internet stranica"
 
 #: apps/order/abstract_models.py:48
 msgid "Billing Address"
@@ -3940,9 +3948,8 @@ msgstr "Adresa za dostavu"
 #: templates/oscar/checkout/thank_you.html:222
 #: templates/oscar/customer/anon_order.html:48
 #: templates/oscar/dashboard/shipping/weight_based_detail.html:27
-#, fuzzy
 msgid "Shipping method"
-msgstr "Dostava"
+msgstr "Način dostave"
 
 #: apps/order/abstract_models.py:83
 msgid "Guest email address"
@@ -4590,8 +4597,9 @@ msgid "Keyword Promotions"
 msgstr ""
 
 #: apps/promotions/models.py:95
+#, fuzzy
 msgid "Keywords"
-msgstr ""
+msgstr "Meta ključne riječi"
 
 #: apps/promotions/models.py:96 defaults.py:198
 #: templates/oscar/dashboard/pages/delete.html:17
@@ -4743,7 +4751,7 @@ msgstr ""
 #: templates/oscar/partials/search.html:7
 #: templates/oscar/search/results.html:18
 msgid "Search"
-msgstr ""
+msgstr "pretraživanje"
 
 #: apps/search/forms.py:57
 msgid "Relevancy"
@@ -4864,11 +4872,11 @@ msgstr ""
 #: templates/oscar/dashboard/orders/order_detail.html:87
 #: templates/oscar/dashboard/orders/order_detail.html:425
 msgid "Shipping"
-msgstr "Dostava"
+msgstr "Način dostave"
 
 #: apps/shipping/methods.py:54
 msgid "Free shipping"
-msgstr ""
+msgstr "Besplatna dostava"
 
 #: apps/shipping/methods.py:70
 msgid "No shipping required"
@@ -4973,8 +4981,9 @@ msgid "Voucher performance"
 msgstr ""
 
 #: apps/wishlists/abstract_models.py:25
+#, fuzzy
 msgid "Default"
-msgstr ""
+msgstr "preuzeto"
 
 #: apps/wishlists/abstract_models.py:37
 msgid "Private - Only the owner can see the wish list"
@@ -5040,8 +5049,9 @@ msgid "Fulfilment"
 msgstr ""
 
 #: defaults.py:140 templates/oscar/dashboard/orders/statistics.html:19
+#, fuzzy
 msgid "Statistics"
-msgstr ""
+msgstr "Status narudžbe"
 
 #: defaults.py:144 templates/oscar/dashboard/partners/partner_delete.html:7
 #: templates/oscar/dashboard/partners/partner_delete.html:16
@@ -5075,7 +5085,7 @@ msgstr ""
 
 #: defaults.py:186
 msgid "Content"
-msgstr ""
+msgstr "Sadržaj"
 
 #: defaults.py:190 templates/oscar/dashboard/promotions/delete.html:17
 #: templates/oscar/dashboard/promotions/delete_pagepromotion.html:12
@@ -5110,7 +5120,7 @@ msgstr ""
 #: templates/oscar/dashboard/users/detail.html:108
 #: templates/oscar/dashboard/users/detail.html:173
 msgid "Reviews"
-msgstr ""
+msgstr "Recenzije"
 
 #: defaults.py:212 templates/oscar/dashboard/reports/index.html:6
 msgid "Reports"
@@ -5303,14 +5313,15 @@ msgstr ""
 
 #: templates/oscar/basket/partials/basket_content.html:31
 #: templates/oscar/basket/partials/basket_content.html:173
+#, fuzzy
 msgid "Price"
-msgstr ""
+msgstr "cijena"
 
 #: templates/oscar/basket/partials/basket_content.html:32
 #: templates/oscar/checkout/checkout.html:111
 #: templates/oscar/checkout/thank_you.html:120
 msgid "Total"
-msgstr ""
+msgstr "Ukupno"
 
 #: templates/oscar/basket/partials/basket_content.html:66
 #: templates/oscar/customer/wishlists/wishlists_detail.html:100
@@ -5408,8 +5419,9 @@ msgstr ""
 #: templates/oscar/dashboard/vouchers/voucher_detail.html:85
 #: templates/oscar/dashboard/vouchers/voucher_form.html:45
 #: templates/oscar/partials/form.html:12
+#, fuzzy
 msgid "or"
-msgstr ""
+msgstr "Više"
 
 #: templates/oscar/basket/partials/basket_content.html:128
 #: templates/oscar/catalogue/reviews/review_form.html:49
@@ -5543,7 +5555,7 @@ msgstr ""
 #: templates/oscar/basket/partials/basket_totals.html:160
 #: templates/oscar/catalogue/detail.html:123
 msgid "Tax"
-msgstr ""
+msgstr "PDV stopa"
 
 #: templates/oscar/basket/partials/basket_totals.html:185
 #: templates/oscar/checkout/thank_you.html:273
@@ -5766,14 +5778,14 @@ msgstr ""
 #: templates/oscar/dashboard/ranges/range_list.html:55
 #: templates/oscar/dashboard/ranges/range_product_list.html:108
 msgid "Yes"
-msgstr ""
+msgstr "Da"
 
 #: templates/oscar/catalogue/partials/review.html:45
 #: templates/oscar/dashboard/offers/offer_list.html:67
 #: templates/oscar/dashboard/ranges/range_list.html:57
 #: templates/oscar/dashboard/ranges/range_product_list.html:108
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: templates/oscar/catalogue/partials/review.html:52
 #, python-format
@@ -5822,7 +5834,7 @@ msgstr ""
 #: templates/oscar/catalogue/reviews/review_detail.html:31
 #: templates/oscar/catalogue/reviews/review_list.html:30
 msgid "Customer reviews"
-msgstr ""
+msgstr "Korisničke recenzije"
 
 #: templates/oscar/catalogue/reviews/review_form.html:8
 msgid "Leave a product review"
@@ -5874,14 +5886,15 @@ msgstr ""
 
 #: templates/oscar/checkout/checkout.html:45
 #: templates/oscar/checkout/thank_you.html:48
+#, fuzzy
 msgid "Contact"
-msgstr ""
+msgstr "Sadržaj"
 
 #: templates/oscar/checkout/checkout.html:47
 #: templates/oscar/checkout/thank_you.html:50
 #: templates/oscar/dashboard/orders/order_detail.html:457
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 #: templates/oscar/checkout/checkout.html:91
 msgid "Payment details to go here"
@@ -5924,7 +5937,7 @@ msgstr ""
 #: templates/oscar/checkout/shipping_address.html:77
 #: templates/oscar/dashboard/offers/step_form.html:74
 msgid "Continue"
-msgstr ""
+msgstr "Nastavak"
 
 #: templates/oscar/checkout/nav.html:11 templates/oscar/checkout/nav.html:16
 msgid "1. Shipping address"
@@ -5970,7 +5983,7 @@ msgstr ""
 
 #: templates/oscar/checkout/preview.html:35
 msgid "Place order"
-msgstr ""
+msgstr "Potvrdi narudžbu"
 
 #: templates/oscar/checkout/shipping_address.html:19
 msgid "Where should we ship to?"
@@ -6373,7 +6386,7 @@ msgstr ""
 #: templates/oscar/partials/nav_accounts.html:39
 #: templates/oscar/partials/nav_accounts.html:43
 msgid "Account"
-msgstr ""
+msgstr "Korisnički račun"
 
 #: templates/oscar/customer/email/email_detail.html:8
 msgid "Email history"
@@ -6728,7 +6741,7 @@ msgstr ""
 #: templates/oscar/dashboard/users/index.html:35
 #: templates/oscar/dashboard/vouchers/voucher_list.html:41
 msgid "Reset"
-msgstr ""
+msgstr "Poništi"
 
 #: templates/oscar/customer/order/order_list.html:41
 #: templates/oscar/dashboard/orders/order_list.html:118
@@ -6745,7 +6758,7 @@ msgstr ""
 
 #: templates/oscar/customer/profile/profile.html:31
 msgid "Change password"
-msgstr ""
+msgstr "Promjeni lozinku"
 
 #: templates/oscar/customer/profile/profile.html:32
 msgid "Edit profile"
@@ -6802,8 +6815,9 @@ msgstr ""
 
 #: templates/oscar/customer/wishlists/wishlists_detail.html:33
 #: templates/oscar/customer/wishlists/wishlists_list.html:11
+#, fuzzy
 msgid "Action"
-msgstr ""
+msgstr "Aktivno"
 
 #: templates/oscar/customer/wishlists/wishlists_detail.html:70
 msgid "View product"
@@ -7084,8 +7098,9 @@ msgid "Product details"
 msgstr ""
 
 #: templates/oscar/dashboard/catalogue/product_update.html:79
+#, fuzzy
 msgid "Images"
-msgstr ""
+msgstr "Slika"
 
 #: templates/oscar/dashboard/catalogue/product_update.html:82
 #: templates/oscar/dashboard/catalogue/product_update.html:186
@@ -7350,8 +7365,9 @@ msgid "Return to site"
 msgstr ""
 
 #: templates/oscar/dashboard/layout.html:45
+#, fuzzy
 msgid "Log out"
-msgstr ""
+msgstr "Odjava"
 
 #: templates/oscar/dashboard/login.html:28
 msgid ""
@@ -7361,7 +7377,7 @@ msgstr ""
 
 #: templates/oscar/dashboard/login.html:41
 msgid "Login"
-msgstr ""
+msgstr "Prijava"
 
 #: templates/oscar/dashboard/offers/benefit_form.html:14
 msgid "Build a new incentive"
@@ -7741,7 +7757,7 @@ msgstr ""
 
 #: templates/oscar/dashboard/orders/order_detail.html:404
 msgid "quantity"
-msgstr ""
+msgstr "količina"
 
 #: templates/oscar/dashboard/orders/order_detail.html:414
 msgid "No payment events."
@@ -7932,7 +7948,7 @@ msgstr ""
 #: templates/oscar/partials/pagination.html:8
 #: templates/oscar/search/partials/pagination.html:8
 msgid "previous"
-msgstr ""
+msgstr "prethodni"
 
 #: templates/oscar/dashboard/partials/pagination.html:11
 #: templates/oscar/partials/pagination.html:11
@@ -7949,7 +7965,7 @@ msgstr ""
 #: templates/oscar/partials/pagination.html:16
 #: templates/oscar/search/partials/pagination.html:16
 msgid "next"
-msgstr ""
+msgstr "sledeći"
 
 #: templates/oscar/dashboard/partners/messages/user_unlinked.html:2
 #, python-format
@@ -8392,7 +8408,7 @@ msgstr ""
 #: templates/oscar/dashboard/reports/partials/offer_report.html:20
 #: templates/oscar/dashboard/reports/partials/order_report.html:35
 msgid "No results found."
-msgstr ""
+msgstr "Traženi proizvod ili riječ nije pronađena."
 
 #: templates/oscar/dashboard/reports/partials/voucher_report.html:23
 msgid "No vouchers were used in this period"
@@ -8411,7 +8427,7 @@ msgstr ""
 
 #: templates/oscar/dashboard/reviews/review_delete.html:29
 msgid "Review"
-msgstr ""
+msgstr "Recenzija"
 
 #: templates/oscar/dashboard/reviews/review_list.html:29
 msgid "Review Search"
@@ -8505,8 +8521,9 @@ msgstr ""
 #: templates/oscar/dashboard/shipping/weight_based_list.html:14
 #: templates/oscar/dashboard/shipping/weight_based_list.html:21
 #: templates/oscar/dashboard/shipping/weight_based_list.html:27
+#, fuzzy
 msgid "Shipping methods"
-msgstr ""
+msgstr "Način dostave"
 
 #: templates/oscar/dashboard/shipping/weight_band_delete.html:34
 #: templates/oscar/dashboard/shipping/weight_based_detail.html:67
@@ -8827,7 +8844,7 @@ msgstr ""
 
 #: templates/oscar/partials/nav_accounts.html:49
 msgid "Logout"
-msgstr ""
+msgstr "Odjava"
 
 #: templates/oscar/partials/nav_primary.html:23
 #: templates/oscar/partials/nav_primary.html:27
@@ -8870,7 +8887,7 @@ msgstr ""
 
 #: templates/oscar/registration/password_reset_complete.html:22
 msgid "Log in"
-msgstr ""
+msgstr "Prijava"
 
 #: templates/oscar/registration/password_reset_confirm.html:4
 #: templates/oscar/registration/password_reset_confirm.html:14
