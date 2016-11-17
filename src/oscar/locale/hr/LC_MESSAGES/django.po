@@ -64,7 +64,7 @@ msgstr "Prvi redak adrese"
 
 #: apps/address/abstract_models.py:228
 msgid "Second line of address"
-msgstr ""
+msgstr "Drugi redak adrese"
 
 #: apps/address/abstract_models.py:230
 msgid "Third line of address"
