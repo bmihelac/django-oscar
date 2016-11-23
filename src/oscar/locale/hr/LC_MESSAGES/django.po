@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-17 08:15+0100\n"
-"PO-Revision-Date: 2016-11-17 14:46+0000\n"
-"Last-Translator:   <bmihelac@mihelac.org>\n"
+"PO-Revision-Date: 2016-11-21 15:00+0000\n"
+"Last-Translator:   <snjezana@mihelac.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,28 +21,28 @@ msgstr ""
 
 #: apps/address/abstract_models.py:26
 msgid "Mr"
-msgstr ""
+msgstr "G."
 
 #: apps/address/abstract_models.py:27
 msgid "Miss"
-msgstr ""
+msgstr "Gđica"
 
 #: apps/address/abstract_models.py:28
 msgid "Mrs"
-msgstr ""
+msgstr "Gđa"
 
 #: apps/address/abstract_models.py:29
 msgid "Ms"
-msgstr ""
+msgstr "Gđica"
 
 #: apps/address/abstract_models.py:30
 msgid "Dr"
-msgstr ""
+msgstr "Dr"
 
 #: apps/address/abstract_models.py:219
 msgctxt "Treatment Pronouns for the customer"
 msgid "Title"
-msgstr ""
+msgstr "Naslov"
 
 #: apps/address/abstract_models.py:221 apps/customer/abstract_models.py:59
 #: templates/oscar/dashboard/partners/partner_manage.html:42
@@ -60,15 +60,15 @@ msgstr "Prezime"
 
 #: apps/address/abstract_models.py:226
 msgid "First line of address"
-msgstr "Prvi redak adrese"
+msgstr "Prvi red adrese"
 
 #: apps/address/abstract_models.py:228
 msgid "Second line of address"
-msgstr "Drugi redak adrese"
+msgstr "Drugi red adrese"
 
 #: apps/address/abstract_models.py:230
 msgid "Third line of address"
-msgstr ""
+msgstr "Treći red adrese"
 
 #: apps/address/abstract_models.py:231
 msgid "City"
@@ -76,11 +76,11 @@ msgstr "Grad"
 
 #: apps/address/abstract_models.py:232
 msgid "State/County"
-msgstr ""
+msgstr "Država"
 
 #: apps/address/abstract_models.py:234
 msgid "Post/Zip-code"
-msgstr ""
+msgstr "Poštanski broj"
 
 #: apps/address/abstract_models.py:235 apps/address/abstract_models.py:413
 msgid "Country"
@@ -88,7 +88,7 @@ msgstr "Država"
 
 #: apps/address/abstract_models.py:240
 msgid "Search text - used only for searching addresses"
-msgstr ""
+msgstr "Traži tekst - koristi se samo za pretraživanje adresa"
 
 #: apps/address/abstract_models.py:247 apps/address/config.py:8
 #: templates/oscar/checkout/checkout.html:37
@@ -110,12 +110,12 @@ msgstr "Adrese"
 #: apps/address/abstract_models.py:274
 #, python-format
 msgid "Addresses in %(country)s require a valid postcode"
-msgstr ""
+msgstr "Adrese u %(country)ama  zahtijevaju valjan poštanski broj"
 
 #: apps/address/abstract_models.py:286
 #, python-format
 msgid "The postcode '%(postcode)s' is not valid for %(country)s"
-msgstr ""
+msgstr "Poštanski broj %(postcode)s' nije važeći za %(country)u"
 
 #: apps/address/abstract_models.py:391
 msgid "ISO 3166-1 alpha-2"
@@ -131,23 +131,23 @@ msgstr ""
 
 #: apps/address/abstract_models.py:398
 msgid "Country name"
-msgstr ""
+msgstr "Ime zemlje"
 
 #: apps/address/abstract_models.py:401
 msgid "Official name"
-msgstr ""
+msgstr "Službeni naziv"
 
 #: apps/address/abstract_models.py:404 apps/catalogue/abstract_models.py:1113
 msgid "Display order"
-msgstr ""
+msgstr "Redoslijed prikaza"
 
 #: apps/address/abstract_models.py:405
 msgid "Higher the number, higher the country in the list."
-msgstr ""
+msgstr "Veći je broj, više je pozicionirana zemlja na listi."
 
 #: apps/address/abstract_models.py:408
 msgid "Is shipping country"
-msgstr ""
+msgstr "Zemlja otpreme"
 
 #: apps/address/abstract_models.py:414 apps/shipping/abstract_models.py:27
 msgid "Countries"
@@ -155,22 +155,22 @@ msgstr "Države"
 
 #: apps/address/abstract_models.py:457 models/fields/__init__.py:139
 msgid "Phone number"
-msgstr ""
+msgstr "Broj telefona"
 
 #: apps/address/abstract_models.py:458
 msgid "In case we need to call you about your order"
-msgstr ""
+msgstr "U slučaju da vas moramo kontaktirati zbog vaše narudžbe"
 
 #: apps/address/abstract_models.py:460
 #: templates/oscar/checkout/checkout.html:55
 #: templates/oscar/checkout/thank_you.html:58
 #: templates/oscar/dashboard/orders/order_detail.html:461
 msgid "Instructions"
-msgstr ""
+msgstr "Upute"
 
 #: apps/address/abstract_models.py:461
 msgid "Tell us anything we should know when delivering your order."
-msgstr ""
+msgstr "Napomene: što moramo znati pri isporuci pošiljke."
 
 #: apps/address/abstract_models.py:468
 #: templates/oscar/checkout/shipping_address.html:5
@@ -183,7 +183,7 @@ msgstr "Adresa za dostavu"
 
 #: apps/address/abstract_models.py:469
 msgid "Shipping addresses"
-msgstr ""
+msgstr "Adrese za dostavu"
 
 #: apps/address/abstract_models.py:494 apps/analytics/abstract_models.py:49
 #: apps/analytics/abstract_models.py:80 apps/analytics/abstract_models.py:98
@@ -201,15 +201,15 @@ msgstr "Korisnik"
 
 #: apps/address/abstract_models.py:498
 msgid "Default shipping address?"
-msgstr ""
+msgstr "Zadana adresa za dostavu?"
 
 #: apps/address/abstract_models.py:502
 msgid "Default billing address?"
-msgstr ""
+msgstr "Zadana adresa za naplatu?"
 
 #: apps/address/abstract_models.py:507 apps/offer/abstract_models.py:135
 msgid "Number of Orders"
-msgstr ""
+msgstr "Broj narudžbi"
 
 #: apps/address/abstract_models.py:511
 msgid "Address Hash"
@@ -223,19 +223,19 @@ msgstr ""
 #: apps/payment/abstract_models.py:42 apps/promotions/models.py:28
 #: apps/promotions/models.py:351 apps/voucher/abstract_models.py:168
 msgid "Date Created"
-msgstr ""
+msgstr "Datum izrade"
 
 #: apps/address/abstract_models.py:541
 msgid "User address"
-msgstr ""
+msgstr "Adresa korisnika"
 
 #: apps/address/abstract_models.py:542
 msgid "User addresses"
-msgstr ""
+msgstr "Adrese korisnika"
 
 #: apps/address/abstract_models.py:555
 msgid "This address is already in your address book"
-msgstr ""
+msgstr "Adresa je već u adresaru"
 
 #: apps/address/abstract_models.py:564
 #: templates/oscar/checkout/thank_you.html:99
@@ -246,7 +246,7 @@ msgstr "Adresa za izdavanje računa"
 
 #: apps/address/abstract_models.py:565
 msgid "Billing addresses"
-msgstr ""
+msgstr "Adrese za izdavanje računa"
 
 #: apps/address/abstract_models.py:584 apps/order/abstract_models.py:416
 #: apps/partner/abstract_models.py:95 apps/partner/config.py:8
@@ -288,16 +288,16 @@ msgstr "Artikl"
 #: apps/analytics/abstract_models.py:24 apps/analytics/reports.py:20
 #: templates/oscar/dashboard/reports/partials/product_report.html:9
 msgid "Views"
-msgstr ""
+msgstr "Pregledi"
 
 #: apps/analytics/abstract_models.py:26 apps/analytics/abstract_models.py:56
 msgid "Basket Additions"
-msgstr ""
+msgstr "Dodano u košaru"
 
 #: apps/analytics/abstract_models.py:28 apps/analytics/reports.py:22
 #: templates/oscar/dashboard/reports/partials/product_report.html:11
 msgid "Purchases"
-msgstr ""
+msgstr "Kupovine"
 
 #: apps/analytics/abstract_models.py:31
 #: apps/catalogue/reviews/abstract_models.py:30
@@ -310,20 +310,20 @@ msgstr ""
 
 #: apps/analytics/abstract_models.py:37
 msgid "Product record"
-msgstr ""
+msgstr "Zapis proizvoda"
 
 #: apps/analytics/abstract_models.py:38
 msgid "Product records"
-msgstr ""
+msgstr "Zapisi prozvoda"
 
 #: apps/analytics/abstract_models.py:41
 #, python-format
 msgid "Record for '%s'"
-msgstr ""
+msgstr "Zapis za '%s'"
 
 #: apps/analytics/abstract_models.py:54
 msgid "Product Views"
-msgstr ""
+msgstr "Pregledi proizvoda"
 
 #: apps/analytics/abstract_models.py:60 apps/analytics/reports.py:65
 #: apps/order/abstract_models.py:283 defaults.py:136
@@ -342,48 +342,48 @@ msgstr "Narudžbe"
 
 #: apps/analytics/abstract_models.py:62 apps/order/abstract_models.py:506
 msgid "Order Lines"
-msgstr ""
+msgstr "Linije narudžbe"
 
 #: apps/analytics/abstract_models.py:64
 msgid "Order Items"
-msgstr ""
+msgstr "Narudžba proizvoda"
 
 #: apps/analytics/abstract_models.py:65
 msgid "Total Spent"
-msgstr ""
+msgstr "Ukupan trošak"
 
 #: apps/analytics/abstract_models.py:68
 msgid "Last Order Date"
-msgstr ""
+msgstr "Datum zadnje narudžbe"
 
 #: apps/analytics/abstract_models.py:73
 msgid "User record"
-msgstr ""
+msgstr "Korisnički zapis"
 
 #: apps/analytics/abstract_models.py:74
 msgid "User records"
-msgstr ""
+msgstr "Korisnički zapisi"
 
 #: apps/analytics/abstract_models.py:87
 msgid "User product view"
-msgstr ""
+msgstr "Zapis korisničkog proizvoda"
 
 #: apps/analytics/abstract_models.py:88
 msgid "User product views"
-msgstr ""
+msgstr "Zapisi korisničkog proizvoda"
 
 #: apps/analytics/abstract_models.py:91
 #, python-format
 msgid "%(user)s viewed '%(product)s'"
-msgstr ""
+msgstr "%(user) je pregledao '%(product)'"
 
 #: apps/analytics/abstract_models.py:99
 msgid "Search term"
-msgstr ""
+msgstr "Pojam za pretraživanje"
 
 #: apps/analytics/abstract_models.py:105
 msgid "User search query"
-msgstr ""
+msgstr "Korisnički upit za pretraživanje"
 
 #: apps/analytics/abstract_models.py:106
 msgid "User search queries"
@@ -5667,7 +5667,7 @@ msgstr ""
 #: templates/oscar/catalogue/partials/add_to_basket_form_compact.html:12
 #: templates/oscar/catalogue/partials/add_to_basket_form_compact.html:15
 msgid "Add to basket"
-msgstr "Dodaj u košaricu"
+msgstr "Dodaj u košaricu!"
 
 #: templates/oscar/catalogue/partials/add_to_basket_form.html:20
 msgid "You have an active stock alert for this product."
