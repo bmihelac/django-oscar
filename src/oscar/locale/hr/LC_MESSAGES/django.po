@@ -1023,7 +1023,7 @@ msgstr ""
 #: apps/catalogue/abstract_models.py:313
 #: templates/oscar/dashboard/catalogue/product_update.html:298
 msgid "Recommended products"
-msgstr "Preporučeni proizvodi"
+msgstr "Preporučeni artikli"
 
 #: apps/catalogue/abstract_models.py:314
 msgid "These are products that are recommended to accompany the main product."
@@ -1108,11 +1108,11 @@ msgstr ""
 
 #: apps/catalogue/abstract_models.py:697
 msgid "Recommended product"
-msgstr ""
+msgstr "Preporučeni artikl"
 
 #: apps/catalogue/abstract_models.py:699
 msgid "Ranking"
-msgstr ""
+msgstr "Ocjena"
 
 #: apps/catalogue/abstract_models.py:700
 msgid ""
@@ -1122,11 +1122,11 @@ msgstr ""
 
 #: apps/catalogue/abstract_models.py:708
 msgid "Product recommendation"
-msgstr ""
+msgstr "Preporuke artikla"
 
 #: apps/catalogue/abstract_models.py:709
 msgid "Product recomendations"
-msgstr ""
+msgstr "Preporuka artikla"
 
 #: apps/catalogue/abstract_models.py:728 apps/customer/abstract_models.py:148
 msgid ""
@@ -1136,23 +1136,23 @@ msgstr ""
 
 #: apps/catalogue/abstract_models.py:745 apps/catalogue/abstract_models.py:887
 msgid "Text"
-msgstr ""
+msgstr "Opis"
 
 #: apps/catalogue/abstract_models.py:746 apps/catalogue/abstract_models.py:888
 msgid "Integer"
-msgstr ""
+msgstr "Broj"
 
 #: apps/catalogue/abstract_models.py:747
 msgid "True / False"
-msgstr ""
+msgstr "Da / Ne"
 
 #: apps/catalogue/abstract_models.py:748 apps/catalogue/abstract_models.py:890
 msgid "Float"
-msgstr ""
+msgstr "Broj sa zarezom"
 
 #: apps/catalogue/abstract_models.py:749
 msgid "Rich Text"
-msgstr ""
+msgstr "Formatirani tekst"
 
 #: apps/catalogue/abstract_models.py:750 apps/catalogue/abstract_models.py:892
 #: apps/order/abstract_models.py:382
@@ -1163,7 +1163,7 @@ msgstr ""
 #: templates/oscar/dashboard/orders/order_detail.html:529
 #: templates/oscar/dashboard/orders/order_detail.html:609
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: apps/catalogue/abstract_models.py:752
 msgid "Entity"
@@ -1171,7 +1171,7 @@ msgstr ""
 
 #: apps/catalogue/abstract_models.py:753
 msgid "File"
-msgstr ""
+msgstr "Datoteka"
 
 #: apps/catalogue/abstract_models.py:758 apps/offer/abstract_models.py:63
 #: apps/offer/abstract_models.py:407 apps/offer/abstract_models.py:639
@@ -1183,46 +1183,46 @@ msgstr ""
 #: templates/oscar/dashboard/promotions/page_detail.html:37
 #: templates/oscar/dashboard/promotions/promotion_list.html:42
 msgid "Type"
-msgstr ""
+msgstr "tip"
 
 #: apps/catalogue/abstract_models.py:762
 msgid "Option Group"
-msgstr ""
+msgstr "Skupina opcija"
 
 #: apps/catalogue/abstract_models.py:763
 msgid "Select an option group if using type \"Option\""
-msgstr ""
+msgstr "Izaberite skupinu opcija ukoliko koristite tip \"Opcija\""
 
 #: apps/catalogue/abstract_models.py:764
 #: templates/oscar/dashboard/catalogue/product_class_form.html:99
 msgid "Required"
-msgstr ""
+msgstr "Obavezno"
 
 #: apps/catalogue/abstract_models.py:770
 msgid "Product attribute"
-msgstr ""
+msgstr "Atribut artikla"
 
 #: apps/catalogue/abstract_models.py:771
 #: templates/oscar/dashboard/catalogue/product_class_form.html:40
 #: templates/oscar/dashboard/catalogue/product_class_form.html:85
 msgid "Product attributes"
-msgstr ""
+msgstr "Atributi artikla"
 
 #: apps/catalogue/abstract_models.py:826
 msgid "Must be str or unicode"
-msgstr ""
+msgstr "Mora biti string ili unicode"
 
 #: apps/catalogue/abstract_models.py:833
 msgid "Must be a float"
-msgstr ""
+msgstr "Mora biti broj"
 
 #: apps/catalogue/abstract_models.py:839
 msgid "Must be an integer"
-msgstr ""
+msgstr "Mora biti cijeli broj"
 
 #: apps/catalogue/abstract_models.py:843
 msgid "Must be a date or datetime"
-msgstr ""
+msgstr "Mora biti datum ili datum/vrijeme"
 
 #: apps/catalogue/abstract_models.py:847
 msgid "Must be a boolean"
@@ -1251,7 +1251,7 @@ msgstr ""
 
 #: apps/catalogue/abstract_models.py:882
 msgid "Attribute"
-msgstr ""
+msgstr "Atribut"
 
 #: apps/catalogue/abstract_models.py:889
 msgid "Boolean"
@@ -1283,15 +1283,15 @@ msgstr ""
 
 #: apps/catalogue/abstract_models.py:1009
 msgid "Group"
-msgstr ""
+msgstr "Skupina"
 
 #: apps/catalogue/abstract_models.py:1019
 msgid "Attribute option"
-msgstr ""
+msgstr "Atribut opcija"
 
 #: apps/catalogue/abstract_models.py:1020
 msgid "Attribute options"
-msgstr ""
+msgstr "Atribut opcije"
 
 #: apps/catalogue/abstract_models.py:1042
 msgid "Required - a value for this option must be specified"
@@ -1307,7 +1307,7 @@ msgstr ""
 
 #: apps/catalogue/abstract_models.py:1109
 msgid "Caption"
-msgstr ""
+msgstr "Podnapis"
 
 #: apps/catalogue/abstract_models.py:1114
 msgid ""
@@ -1316,16 +1316,16 @@ msgstr ""
 
 #: apps/catalogue/abstract_models.py:1125
 msgid "Product image"
-msgstr ""
+msgstr "Slika artikla"
 
 #: apps/catalogue/abstract_models.py:1126
 msgid "Product images"
-msgstr ""
+msgstr "Slike artikla"
 
 #: apps/catalogue/config.py:8 apps/dashboard/catalogue/config.py:8
 #: defaults.py:106
 msgid "Catalogue"
-msgstr ""
+msgstr "Katalog"
 
 #: apps/catalogue/product_attributes.py:33
 #, python-format
