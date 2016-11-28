@@ -879,11 +879,11 @@ msgstr "Slug"
 
 #: apps/catalogue/abstract_models.py:56
 msgid "Requires shipping?"
-msgstr ""
+msgstr "Zahtjeva slanje?"
 
 #: apps/catalogue/abstract_models.py:61
 msgid "Track stock levels?"
-msgstr ""
+msgstr "Pratiti zalihe?"
 
 #: apps/catalogue/abstract_models.py:68 apps/catalogue/abstract_models.py:1052
 msgid "Options"
@@ -2295,7 +2295,7 @@ msgstr ""
 
 #: apps/dashboard/catalogue/views.py:691
 msgid "Add a new product type"
-msgstr ""
+msgstr "Dodaj novi tip artikla"
 
 #: apps/dashboard/catalogue/views.py:694
 msgid "Product type created successfully"
@@ -7010,7 +7010,7 @@ msgstr "Sekcije"
 #: templates/oscar/dashboard/catalogue/product_class_form.html:39
 #: templates/oscar/dashboard/catalogue/product_class_form.html:53
 msgid "Product Class details"
-msgstr ""
+msgstr "Detalji tipa artikla"
 
 #: templates/oscar/dashboard/catalogue/product_class_list.html:15
 msgid "Create new product type"
