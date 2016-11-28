@@ -5086,7 +5086,7 @@ msgstr "Kupci"
 
 #: defaults.py:166
 msgid "Stock alert requests"
-msgstr ""
+msgstr "Alarmi za obavijesti o proizvodu"
 
 #: defaults.py:186
 msgid "Content"
@@ -5103,16 +5103,16 @@ msgstr "Sadržaj"
 #: templates/oscar/dashboard/promotions/promotion_list.html:21
 #: templates/oscar/dashboard/promotions/promotion_list.html:37
 msgid "Content blocks"
-msgstr ""
+msgstr "Blokovi sadržaja"
 
 #: defaults.py:194
 #: templates/oscar/dashboard/promotions/pagepromotion_list.html:22
 msgid "Content blocks by page"
-msgstr ""
+msgstr "Blokovi sadržaja prema stranici"
 
 #: defaults.py:202
 msgid "Email templates"
-msgstr ""
+msgstr "E-mail predlošci"
 
 #: defaults.py:206 templates/oscar/catalogue/reviews/review_detail.html:5
 #: templates/oscar/catalogue/reviews/review_detail.html:23
@@ -5129,7 +5129,7 @@ msgstr "Recenzije"
 
 #: defaults.py:212 templates/oscar/dashboard/reports/index.html:6
 msgid "Reports"
-msgstr ""
+msgstr "Izvještaji"
 
 #: defaults.py:236
 msgid "Price range"
@@ -5157,27 +5157,27 @@ msgstr ""
 
 #: templates/oscar/403.html:5 templates/oscar/403.html:9
 msgid "Permission denied!"
-msgstr ""
+msgstr "Pristup nije dozvoljen!"
 
 #: templates/oscar/403.html:13
 msgid "We're sorry but you are not permitted to access this page."
-msgstr ""
+msgstr "Žao nam je ali nemate dozvolu za dostup do ove stranice."
 
 #: templates/oscar/404.html:5
 msgid "Page not found"
-msgstr ""
+msgstr "Stanica nije pronađena!"
 
 #: templates/oscar/404.html:9
 msgid "Page not found!"
-msgstr ""
+msgstr "Stanica nije pronađena!"
 
 #: templates/oscar/404.html:13
 msgid "We're sorry but the page you are looking for can't be found."
-msgstr ""
+msgstr "Žao nam je ali stranica koju tražite nije pronađena."
 
 #: templates/oscar/500.html:5 templates/oscar/500.html:9
 msgid "Server error!"
-msgstr ""
+msgstr "Greška na poslužitelju!"
 
 #: templates/oscar/500.html:13
 msgid ""
@@ -5273,11 +5273,11 @@ msgstr ""
 #: templates/oscar/basket/partials/basket_quick.html:38
 #: templates/oscar/partials/mini_basket.html:13
 msgid "View basket"
-msgstr ""
+msgstr "Pregled košarice"
 
 #: templates/oscar/basket/messages/new_total.html:23
 msgid "Checkout now"
-msgstr ""
+msgstr "Na blagajnu"
 
 #: templates/oscar/basket/messages/offer_gained.html:3
 #, python-format
@@ -5297,7 +5297,7 @@ msgstr ""
 
 #: templates/oscar/basket/partials/basket_content.html:8
 msgid "Important messages about items in your basket"
-msgstr ""
+msgstr "Važna obavijest o artiklima u vašoj košarici"
 
 #: templates/oscar/basket/partials/basket_content.html:16
 msgid "You could be missing out on offers!"
@@ -5332,14 +5332,14 @@ msgstr "Ukupno"
 #: templates/oscar/dashboard/orders/shippingaddress_form.html:33
 #: templates/oscar/dashboard/reviews/review_list.html:50
 msgid "Updating..."
-msgstr ""
+msgstr "Ažuriranje..."
 
 #: templates/oscar/basket/partials/basket_content.html:66
 #: templates/oscar/dashboard/catalogue/stockalert_list.html:69
 #: templates/oscar/dashboard/orders/order_detail.html:452
 #: templates/oscar/dashboard/reviews/review_list.html:50
 msgid "Update"
-msgstr ""
+msgstr "Ažuriraj"
 
 #: templates/oscar/basket/partials/basket_content.html:71
 #: templates/oscar/basket/partials/basket_content.html:196
@@ -5351,19 +5351,19 @@ msgstr ""
 #: templates/oscar/dashboard/promotions/page_detail.html:55
 #: templates/oscar/dashboard/ranges/range_product_list.html:110
 msgid "Remove"
-msgstr ""
+msgstr "Odstrani"
 
 #: templates/oscar/basket/partials/basket_content.html:73
 msgid "Save for later"
-msgstr ""
+msgstr "Spremi za kasnije"
 
 #: templates/oscar/basket/partials/basket_content.html:119
 msgid "Voucher/promo code"
-msgstr ""
+msgstr "Promocijska koda"
 
 #: templates/oscar/basket/partials/basket_content.html:121
 msgid "I have a voucher code..."
-msgstr ""
+msgstr "Imam promocijsku kodu"
 
 #: templates/oscar/basket/partials/basket_content.html:127
 #: templates/oscar/catalogue/partials/add_to_basket_form.html:13
@@ -5373,11 +5373,11 @@ msgstr ""
 #: templates/oscar/dashboard/promotions/form.html:83
 #: templates/oscar/dashboard/shipping/weight_based_detail.html:93
 msgid "Adding..."
-msgstr ""
+msgstr "Dodavanje...."
 
 #: templates/oscar/basket/partials/basket_content.html:127
 msgid "Add voucher"
-msgstr ""
+msgstr "Dodaj promocijsku kodu"
 
 #: templates/oscar/basket/partials/basket_content.html:128
 #: templates/oscar/catalogue/reviews/review_form.html:48
@@ -5466,14 +5466,14 @@ msgstr "ili"
 #: templates/oscar/dashboard/vouchers/voucher_form.html:46
 #: templates/oscar/partials/form.html:12
 msgid "cancel"
-msgstr ""
+msgstr "poništi"
 
 #: templates/oscar/basket/partials/basket_content.html:138
 #: templates/oscar/checkout/checkout.html:151
 #: templates/oscar/checkout/thank_you.html:168
 #: templates/oscar/customer/anon_order.html:95
 msgid "Totals"
-msgstr ""
+msgstr "Ukupno"
 
 #: templates/oscar/basket/partials/basket_content.html:150
 msgid "Proceed to checkout"
@@ -5482,39 +5482,39 @@ msgstr "Nastavak na blagajnu"
 #: templates/oscar/basket/partials/basket_content.html:159
 #: templates/oscar/basket/partials/basket_quick.html:42
 msgid "Your basket is empty."
-msgstr ""
+msgstr "Vaša košarica je prazna."
 
 #: templates/oscar/basket/partials/basket_content.html:160
 #: templates/oscar/checkout/thank_you.html:317
 msgid "Continue shopping"
-msgstr ""
+msgstr "Nastavak kupovine"
 
 #: templates/oscar/basket/partials/basket_content.html:169
 msgid "Items to buy later"
-msgstr ""
+msgstr "Artikli za kupiti kasnije"
 
 #: templates/oscar/basket/partials/basket_content.html:172
 msgid "Items"
-msgstr ""
+msgstr "Artikli"
 
 #: templates/oscar/basket/partials/basket_content.html:213
 msgid "Move to basket"
-msgstr ""
+msgstr "Premjesti u košaricu"
 
 #: templates/oscar/basket/partials/basket_quick.html:25
 #: templates/oscar/customer/order/order_detail.html:19
 msgid "Qty"
-msgstr ""
+msgstr "Kol"
 
 #: templates/oscar/basket/partials/basket_quick.html:33
 #: templates/oscar/basket/partials/basket_quick.html:35
 msgid "Total:"
-msgstr ""
+msgstr "Ukupno:"
 
 #: templates/oscar/basket/partials/basket_totals.html:16
 #: templates/oscar/checkout/thank_you.html:180
 msgid "Basket total (before discounts)"
-msgstr ""
+msgstr "Košarica ukupno (prije popusta)"
 
 #: templates/oscar/basket/partials/basket_totals.html:28
 #: templates/oscar/basket/partials/basket_totals.html:134
@@ -5529,31 +5529,31 @@ msgstr ""
 #: templates/oscar/dashboard/vouchers/voucher_detail.html:37
 #: templates/oscar/dashboard/vouchers/voucher_detail.html:64
 msgid "Discount"
-msgstr ""
+msgstr "Popust"
 
 #: templates/oscar/basket/partials/basket_totals.html:62
 #: templates/oscar/checkout/thank_you.html:195
 msgid "Basket total (after discounts)"
-msgstr ""
+msgstr "Košarica ukupno (nakon popusta)"
 
 #: templates/oscar/basket/partials/basket_totals.html:74
 #: templates/oscar/checkout/thank_you.html:200
 #: templates/oscar/customer/order/order_detail.html:91
 #: templates/oscar/dashboard/orders/order_detail.html:195
 msgid "Basket total"
-msgstr ""
+msgstr "Košarica ukupno"
 
 #: templates/oscar/basket/partials/basket_totals.html:97
 msgid "Alternative shipping methods can be chosen during checkout"
-msgstr ""
+msgstr "Različita metoda dostave može biti odabrana prilikom plaćanja"
 
 #: templates/oscar/basket/partials/basket_totals.html:123
 msgid "Shipping total (before discounts)"
-msgstr ""
+msgstr "Trošak dostave (prije popusta)"
 
 #: templates/oscar/basket/partials/basket_totals.html:139
 msgid "Shipping total (after discounts)"
-msgstr ""
+msgstr "Trošak dostave (poslije popusta)"
 
 #: templates/oscar/basket/partials/basket_totals.html:160
 #: templates/oscar/catalogue/detail.html:123
@@ -5563,23 +5563,23 @@ msgstr "PDV stopa"
 #: templates/oscar/basket/partials/basket_totals.html:185
 #: templates/oscar/checkout/thank_you.html:273
 msgid "Post order actions"
-msgstr ""
+msgstr "Akcije nakon narudžbe"
 
 #: templates/oscar/basket/partials/basket_totals.html:185
 msgid "These will be applied once your order is placed."
-msgstr ""
+msgstr "Ovo će biti aplicirano kada je narudžba postavljena"
 
 #: templates/oscar/basket/partials/basket_totals.html:218
 msgid "Taxes will be added during checkout."
-msgstr ""
+msgstr "Porezi će biti dodani prilikom plaćanja"
 
 #: templates/oscar/catalogue/browse.html:27
 msgid "Show results for"
-msgstr ""
+msgstr "Pokaži rezultate za"
 
 #: templates/oscar/catalogue/browse.html:49
 msgid "Refine by"
-msgstr ""
+msgstr "Precizirati po"
 
 #: templates/oscar/catalogue/browse.html:73
 #, python-format
@@ -5620,15 +5620,15 @@ msgstr ""
 #: templates/oscar/dashboard/ranges/range_product_list.html:127
 #: templates/oscar/offer/detail.html:61 templates/oscar/offer/range.html:40
 msgid "No products found."
-msgstr ""
+msgstr "Nijedan proizvod nije pronađen."
 
 #: templates/oscar/catalogue/detail.html:68
 msgid "Edit this product"
-msgstr ""
+msgstr "Uredi ovaj proizvod"
 
 #: templates/oscar/catalogue/detail.html:93
 msgid "Product Description"
-msgstr ""
+msgstr "Opis proizvoda"
 
 #: templates/oscar/catalogue/detail.html:101
 msgid "Product Information"
