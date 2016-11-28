@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-17 08:15+0100\n"
-"PO-Revision-Date: 2016-11-21 15:00+0000\n"
+"PO-Revision-Date: 2016-11-24 11:09+0000\n"
 "Last-Translator:   <snjezana@mihelac.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,23 +21,23 @@ msgstr ""
 
 #: apps/address/abstract_models.py:26
 msgid "Mr"
-msgstr "G."
+msgstr "g."
 
 #: apps/address/abstract_models.py:27
 msgid "Miss"
-msgstr "Gđica"
+msgstr "gđica"
 
 #: apps/address/abstract_models.py:28
 msgid "Mrs"
-msgstr "Gđa"
+msgstr "gđa"
 
 #: apps/address/abstract_models.py:29
 msgid "Ms"
-msgstr "Gđica"
+msgstr "gđica"
 
 #: apps/address/abstract_models.py:30
 msgid "Dr"
-msgstr "Dr"
+msgstr "dr."
 
 #: apps/address/abstract_models.py:219
 msgctxt "Treatment Pronouns for the customer"
@@ -159,7 +159,7 @@ msgstr "Broj telefona"
 
 #: apps/address/abstract_models.py:458
 msgid "In case we need to call you about your order"
-msgstr "U slučaju da vas moramo kontaktirati zbog vaše narudžbe"
+msgstr "U slučaju da vas moramo kontaktirati zbog narudžbe"
 
 #: apps/address/abstract_models.py:460
 #: templates/oscar/checkout/checkout.html:55
@@ -254,15 +254,15 @@ msgstr "Adrese za izdavanje računa"
 #: templates/oscar/dashboard/catalogue/stockalert_list.html:49
 #: templates/oscar/dashboard/orders/line_detail.html:77
 msgid "Partner"
-msgstr ""
+msgstr "Partner"
 
 #: apps/address/abstract_models.py:589
 msgid "Partner address"
-msgstr ""
+msgstr "Adresa partnera"
 
 #: apps/address/abstract_models.py:590
 msgid "Partner addresses"
-msgstr ""
+msgstr "Adrese partnera"
 
 #: apps/analytics/abstract_models.py:20 apps/analytics/abstract_models.py:81
 #: apps/analytics/reports.py:19 apps/basket/abstract_models.py:598
@@ -306,7 +306,7 @@ msgstr "Kupovine"
 #: templates/oscar/dashboard/reviews/review_list.html:59
 #: templates/oscar/dashboard/users/detail.html:177
 msgid "Score"
-msgstr ""
+msgstr "Ocjena"
 
 #: apps/analytics/abstract_models.py:37
 msgid "Product record"
@@ -387,7 +387,7 @@ msgstr "Korisnički upit za pretraživanje"
 
 #: apps/analytics/abstract_models.py:106
 msgid "User search queries"
-msgstr ""
+msgstr "Pretraživanje korisničkog upita"
 
 #: apps/analytics/abstract_models.py:109
 #, python-format
@@ -396,17 +396,17 @@ msgstr ""
 
 #: apps/analytics/config.py:8
 msgid "Analytics"
-msgstr ""
+msgstr "Analitika"
 
 #: apps/analytics/reports.py:21 apps/analytics/reports.py:64
 #: templates/oscar/dashboard/reports/partials/product_report.html:10
 #: templates/oscar/dashboard/reports/partials/user_report.html:12
 msgid "Basket additions"
-msgstr ""
+msgstr "Dopuna košarice"
 
 #: apps/analytics/reports.py:39
 msgid "Product analytics"
-msgstr ""
+msgstr "Analitika proizvoda"
 
 #: apps/analytics/reports.py:61 apps/basket/reports.py:19
 #: apps/catalogue/abstract_models.py:50 apps/catalogue/abstract_models.py:93
@@ -450,17 +450,17 @@ msgstr "Naziv"
 #: templates/oscar/customer/profile/profile.html:25
 #: templates/oscar/dashboard/reports/partials/user_report.html:10
 msgid "Date registered"
-msgstr ""
+msgstr "Datum registracije"
 
 #: apps/analytics/reports.py:63
 #: templates/oscar/dashboard/reports/partials/user_report.html:11
 msgid "Product views"
-msgstr ""
+msgstr "Pregled proizvoda"
 
 #: apps/analytics/reports.py:66
 #: templates/oscar/dashboard/reports/partials/user_report.html:14
 msgid "Order lines"
-msgstr ""
+msgstr "Linija narudžbe"
 
 #: apps/analytics/reports.py:67
 #: templates/oscar/dashboard/reports/partials/user_report.html:15
@@ -471,40 +471,40 @@ msgstr "Stavke narudžbe"
 #: templates/oscar/dashboard/reports/partials/user_report.html:16
 #: templates/oscar/dashboard/users/detail.html:76
 msgid "Total spent"
-msgstr ""
+msgstr "Ukupno potrošeno"
 
 #: apps/analytics/reports.py:69
 #: templates/oscar/dashboard/reports/partials/user_report.html:17
 msgid "Date of last order"
-msgstr ""
+msgstr "Datum zadnje narudžbe"
 
 #: apps/analytics/reports.py:91
 msgid "User analytics"
-msgstr ""
+msgstr "Korisnička analitika"
 
 #: apps/basket/abstract_models.py:32 apps/wishlists/abstract_models.py:24
 msgid "Owner"
-msgstr ""
+msgstr "Vlasnike"
 
 #: apps/basket/abstract_models.py:40
 msgid "Open - currently active"
-msgstr ""
+msgstr "Otvoren - trenutno aktivan"
 
 #: apps/basket/abstract_models.py:41
 msgid "Merged - superceded by another basket"
-msgstr ""
+msgstr "Spajanje - zamijenjen drugom košaricom"
 
 #: apps/basket/abstract_models.py:42
 msgid "Saved - for items to be purchased later"
-msgstr ""
+msgstr "Sačuvan - za proizvode koje ćete kupiti kasnije"
 
 #: apps/basket/abstract_models.py:43
 msgid "Frozen - the basket cannot be modified"
-msgstr ""
+msgstr "Zamrznut - košarica se ne može mijenjati"
 
 #: apps/basket/abstract_models.py:44
 msgid "Submitted - has been ordered at the checkout"
-msgstr ""
+msgstr "Potvrđeno - naručeno na blagajni"
 
 #: apps/basket/abstract_models.py:47 apps/catalogue/abstract_models.py:1045
 #: apps/catalogue/reviews/abstract_models.py:57
@@ -545,7 +545,7 @@ msgstr "Status"
 #: templates/oscar/dashboard/vouchers/voucher_list.html:17
 #: templates/oscar/dashboard/vouchers/voucher_list.html:27
 msgid "Vouchers"
-msgstr ""
+msgstr "Potvrda"
 
 #: apps/basket/abstract_models.py:55 apps/basket/reports.py:82
 #: apps/catalogue/abstract_models.py:321
@@ -563,16 +563,16 @@ msgstr ""
 #: templates/oscar/dashboard/users/detail.html:180
 #: templates/oscar/dashboard/vouchers/voucher_list.html:57
 msgid "Date created"
-msgstr ""
+msgstr "Datum kreiranja"
 
 #: apps/basket/abstract_models.py:56
 msgid "Date merged"
-msgstr ""
+msgstr "Datum spajanja"
 
 #: apps/basket/abstract_models.py:57
 #: templates/oscar/customer/order/order_list.html:42
 msgid "Date submitted"
-msgstr ""
+msgstr "Datum podnošenja"
 
 #: apps/basket/abstract_models.py:66 apps/basket/abstract_models.py:587
 #: apps/basket/config.py:8 apps/order/abstract_models.py:36
@@ -583,11 +583,11 @@ msgstr ""
 #: templates/oscar/checkout/thank_you.html:174
 #: templates/oscar/partials/nav_primary.html:20
 msgid "Basket"
-msgstr ""
+msgstr "Košarica"
 
 #: apps/basket/abstract_models.py:67
 msgid "Baskets"
-msgstr ""
+msgstr "Košarice"
 
 #: apps/basket/abstract_models.py:86
 #, python-format
@@ -600,10 +600,12 @@ msgid ""
 "Due to technical limitations we are not able to ship more than %(threshold)d"
 " items in one order."
 msgstr ""
+"Uslijed tehničkih ograničenja nismo u mogućnosti dostaviti više od  "
+"%(threshold) artikala u jednoj naružbi."
 
 #: apps/basket/abstract_models.py:594
 msgid "Line Reference"
-msgstr ""
+msgstr "Referentna linija"
 
 #: apps/basket/abstract_models.py:604 apps/basket/forms.py:140
 #: apps/basket/forms.py:288 apps/order/abstract_models.py:450
@@ -630,19 +632,19 @@ msgstr "Valuta"
 
 #: apps/basket/abstract_models.py:612
 msgid "Price excl. Tax"
-msgstr ""
+msgstr "Cijena bez PDV-a"
 
 #: apps/basket/abstract_models.py:615
 msgid "Price incl. Tax"
-msgstr ""
+msgstr "Cijena sa PDV-om"
 
 #: apps/basket/abstract_models.py:633
 msgid "Basket line"
-msgstr ""
+msgstr "Linija košarice"
 
 #: apps/basket/abstract_models.py:634
 msgid "Basket lines"
-msgstr ""
+msgstr "Linije košarice"
 
 #: apps/basket/abstract_models.py:638
 #, python-format
@@ -652,7 +654,7 @@ msgstr ""
 #: apps/basket/abstract_models.py:646
 #, python-format
 msgid "You cannot modify a %s basket"
-msgstr ""
+msgstr "Ne možete mijenjati  %s  košaricu"
 
 #: apps/basket/abstract_models.py:857
 #, python-format
@@ -660,6 +662,8 @@ msgid ""
 "The price of '%(product)s' has increased from %(old_price)s to %(new_price)s"
 " since you added it to your basket"
 msgstr ""
+"Cijena '%(product)a' je porasla sa %(old_price) na %(new_price) od vašeg "
+"dodavanja u košaricu"
 
 #: apps/basket/abstract_models.py:862
 #, python-format
@@ -667,12 +671,14 @@ msgid ""
 "The price of '%(product)s' has decreased from %(old_price)s to %(new_price)s"
 " since you added it to your basket"
 msgstr ""
+"Cijena '%(product)a' se snizila sa %(old_price) na %(new_price) od vašeg "
+"dodavanja u košaricu"
 
 #: apps/basket/abstract_models.py:873 apps/order/abstract_models.py:733
 #: apps/order/abstract_models.py:762 apps/order/abstract_models.py:867
 #: apps/order/abstract_models.py:928
 msgid "Line"
-msgstr ""
+msgstr "Linija"
 
 #: apps/basket/abstract_models.py:874 apps/catalogue/abstract_models.py:751
 #: apps/catalogue/abstract_models.py:1010
@@ -688,19 +694,19 @@ msgstr "Vrijednost"
 
 #: apps/basket/abstract_models.py:880
 msgid "Line attribute"
-msgstr ""
+msgstr "Linija atributa"
 
 #: apps/basket/abstract_models.py:881
 msgid "Line attributes"
-msgstr ""
+msgstr "Linije atributa"
 
 #: apps/basket/forms.py:17
 msgid "Save for Later"
-msgstr ""
+msgstr "Sačuvaj za poslije"
 
 #: apps/basket/forms.py:81
 msgid "Move to Basket"
-msgstr ""
+msgstr "Pomjeri u košaricu"
 
 #: apps/basket/forms.py:130 apps/catalogue/abstract_models.py:723
 #: apps/catalogue/abstract_models.py:1037 apps/customer/abstract_models.py:142
@@ -718,11 +724,11 @@ msgstr "Šifra"
 
 #: apps/basket/forms.py:185
 msgid "Variant"
-msgstr ""
+msgstr "Varijanta"
 
 #: apps/basket/forms.py:213
 msgid "Please select a valid product"
-msgstr ""
+msgstr "Molim vas odaberite valjan proizvod"
 
 #: apps/basket/forms.py:230
 #, python-format
@@ -730,22 +736,29 @@ msgid ""
 "Due to technical limitations we are not able to ship more than %(threshold)d"
 " items in one order. Your basket currently has %(basket)d items."
 msgstr ""
+"Uslijed tehničkih ograničenja nismo u mogućnosti dostaviti više od "
+"%(threshold) proizvoda u jednoj narudžbi. Vaša košara trenutno sadrži "
+"%(basket) proizvoda."
 
 #: apps/basket/forms.py:253
 msgid ""
 "This product cannot be added to the basket as its currency isn't the same as"
 " other products in your basket"
 msgstr ""
+"Artikl se ne može dodati u vašu košaricu je valuta ne odgovara odgovara "
+"valuti ostalih artikala u vašoj košarici"
 
 #: apps/basket/middleware.py:170
 msgid ""
 "We have merged a basket from a previous session. Its contents might have "
 "changed."
 msgstr ""
+"Spojili smo košarice sa prethodne sesije. Njen sadržaj može biti "
+"promijenjen. "
 
 #: apps/basket/reports.py:18 apps/basket/reports.py:77
 msgid "User ID"
-msgstr ""
+msgstr "Korisnički ID"
 
 #: apps/basket/reports.py:20 apps/catalogue/reviews/abstract_models.py:46
 #: apps/catalogue/reviews/forms.py:12 apps/customer/abstract_models.py:124
@@ -766,13 +779,13 @@ msgstr "E-mail"
 
 #: apps/basket/reports.py:21 apps/basket/reports.py:79
 msgid "Basket status"
-msgstr ""
+msgstr "Status košarice"
 
 #: apps/basket/reports.py:22 apps/basket/reports.py:80
 #: templates/oscar/dashboard/reports/partials/open_basket_report.html:10
 #: templates/oscar/dashboard/reports/partials/submitted_basket_report.html:10
 msgid "Num lines"
-msgstr ""
+msgstr "Broj redaka"
 
 #: apps/basket/reports.py:23 apps/basket/reports.py:81
 #: templates/oscar/customer/order/order_list.html:40
@@ -780,21 +793,21 @@ msgstr ""
 #: templates/oscar/dashboard/reports/partials/submitted_basket_report.html:11
 #: templates/oscar/dashboard/users/detail.html:121
 msgid "Num items"
-msgstr ""
+msgstr "Broj stavke"
 
 #: apps/basket/reports.py:24
 #: templates/oscar/dashboard/reports/partials/open_basket_report.html:12
 msgid "Date of creation"
-msgstr ""
+msgstr "Datum kreiranja"
 
 #: apps/basket/reports.py:25
 #: templates/oscar/dashboard/reports/partials/open_basket_report.html:13
 msgid "Time since creation"
-msgstr ""
+msgstr "Proteklo od kreiranja"
 
 #: apps/basket/reports.py:57
 msgid "Open baskets"
-msgstr ""
+msgstr "Otvorena košarica"
 
 #: apps/basket/reports.py:83
 #: templates/oscar/dashboard/reports/partials/submitted_basket_report.html:13
