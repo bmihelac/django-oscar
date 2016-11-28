@@ -2181,7 +2181,7 @@ msgstr "Varijante"
 #: apps/dashboard/catalogue/tables.py:32 apps/partner/abstract_models.py:163
 #: templates/oscar/dashboard/catalogue/product_update.html:256
 msgid "Stock records"
-msgstr ""
+msgstr "Zapis zaliha"
 
 #: apps/dashboard/catalogue/tables.py:36
 #: templates/oscar/customer/wishlists/wishlists_detail.html:76
@@ -5052,7 +5052,7 @@ msgstr "Niske zalihe obavijesti"
 
 #: defaults.py:132
 msgid "Fulfilment"
-msgstr ""
+msgstr "Realizacije"
 
 #: defaults.py:140 templates/oscar/dashboard/orders/statistics.html:19
 msgid "Statistics"
@@ -7113,11 +7113,11 @@ msgstr ""
 
 #: templates/oscar/dashboard/catalogue/product_update.html:146
 msgid "Product Type:"
-msgstr ""
+msgstr "Tip artikla:"
 
 #: templates/oscar/dashboard/catalogue/product_update.html:167
 msgid "Upload, change or remove images"
-msgstr ""
+msgstr "Prijenos, promjena ili brisanje slike"
 
 #: templates/oscar/dashboard/catalogue/product_update.html:192
 msgid "SKU"
@@ -7125,11 +7125,11 @@ msgstr ""
 
 #: templates/oscar/dashboard/catalogue/product_update.html:194
 msgid "Num in stock"
-msgstr ""
+msgstr "Broj na zalihi"
 
 #: templates/oscar/dashboard/catalogue/product_update.html:195
 msgid "Num allocated"
-msgstr ""
+msgstr "Broj rapodijeljenih"
 
 #: templates/oscar/dashboard/catalogue/product_update.html:196
 #: templates/oscar/dashboard/catalogue/stockalert_list.html:50
@@ -7830,29 +7830,29 @@ msgstr ""
 #: templates/oscar/dashboard/orders/order_list.html:101
 #: templates/oscar/dashboard/orders/order_list.html:185
 msgid "Order Search Results"
-msgstr ""
+msgstr "Rezultati pretraživanja"
 
 #: templates/oscar/dashboard/orders/order_list.html:103
 #: templates/oscar/dashboard/orders/order_list.html:187
 msgid "All Orders"
-msgstr ""
+msgstr "Sve narudžbe"
 
 #: templates/oscar/dashboard/orders/order_list.html:108
 msgid "Download selected orders as a CSV"
-msgstr ""
+msgstr "Prijenos izabranih narudžbi kao CSV"
 
 #: templates/oscar/dashboard/orders/order_list.html:142
 msgid "Deleted"
-msgstr ""
+msgstr "Izbrisano"
 
 #: templates/oscar/dashboard/orders/order_list.html:171
 #: templates/oscar/registration/password_reset_confirm.html:27
 msgid "Changing..."
-msgstr ""
+msgstr "Mijenjanje..."
 
 #: templates/oscar/dashboard/orders/order_list.html:190
 msgid "No orders found."
-msgstr ""
+msgstr "Niti jedna narudžba nije pronađena."
 
 #: templates/oscar/dashboard/orders/partials/bulk_edit_form.html:6
 msgid "Print Packaging Slips"
@@ -7860,33 +7860,33 @@ msgstr ""
 
 #: templates/oscar/dashboard/orders/partials/bulk_edit_form.html:10
 msgid "Mark as"
-msgstr ""
+msgstr "Označi kao"
 
 #: templates/oscar/dashboard/orders/partials/bulk_edit_form.html:15
 #: templates/oscar/dashboard/orders/partials/bulk_edit_form.html:20
 msgid "Change order status to"
-msgstr ""
+msgstr "Promjeni status narudžbe u"
 
 #: templates/oscar/dashboard/orders/partials/bulk_edit_form.html:27
 msgid "Done"
-msgstr ""
+msgstr "Učinjeno"
 
 #: templates/oscar/dashboard/orders/shippingaddress_form.html:19
 msgid "Edit shipping address"
-msgstr ""
+msgstr "Uredi adresu za dostavu"
 
 #: templates/oscar/dashboard/orders/shippingaddress_form.html:24
 #, python-format
 msgid "Edit shipping address for order %(order.number)s"
-msgstr ""
+msgstr "Uredi adresu za dostavu za narudžbu %(order.number)s"
 
 #: templates/oscar/dashboard/orders/shippingaddress_form.html:33
 msgid "Update address"
-msgstr ""
+msgstr "Ažuriranje adrese"
 
 #: templates/oscar/dashboard/orders/statistics.html:8
 msgid "Order statistics"
-msgstr ""
+msgstr "Statistika narudžbe"
 
 #: templates/oscar/dashboard/orders/statistics.html:32
 msgid "Filter result"
