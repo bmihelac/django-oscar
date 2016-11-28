@@ -817,7 +817,7 @@ msgstr ""
 
 #: apps/basket/reports.py:112
 msgid "Submitted baskets"
-msgstr ""
+msgstr "Potvrdđene košarice"
 
 #: apps/basket/views.py:162
 msgid "You can't save an item for later if you're not logged in!"
@@ -4615,15 +4615,15 @@ msgstr "Ključne riječi"
 #: templates/oscar/dashboard/pages/index.html:23
 #: templates/oscar/dashboard/pages/update.html:16
 msgid "Pages"
-msgstr ""
+msgstr "Stranice"
 
 #: apps/promotions/models.py:101
 msgid "Promotion"
-msgstr ""
+msgstr "Promocija"
 
 #: apps/promotions/models.py:152
 msgid "Display type"
-msgstr ""
+msgstr "Način prikaza"
 
 #: apps/promotions/models.py:153
 msgid ""
