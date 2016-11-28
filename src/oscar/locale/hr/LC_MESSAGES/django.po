@@ -4636,17 +4636,18 @@ msgstr "HTML kod"
 
 #: apps/promotions/models.py:178 apps/promotions/models.py:249
 msgid "Link URL"
-msgstr ""
+msgstr "Link URL"
 
 #: apps/promotions/models.py:179
 msgid "This is where this promotion links to"
-msgstr ""
+msgstr "Ovo je gdje klik na promociju vodi"
 
 #: apps/promotions/models.py:206
 msgid ""
 "Choose the Image content blocks that this block will use. (You may need to "
 "create some first)."
-msgstr ""
+msgstr "Izaberite Slika sadržaj koji će biti korišen. (Možda je potrebno "
+"kreirati tipove sadržaja Slika prvo)."
 
 #: apps/promotions/models.py:215
 msgid "Multi Image"
