@@ -1782,7 +1782,7 @@ msgstr ""
 #: apps/customer/alerts/views.py:71
 #, python-format
 msgid "A confirmation email has been sent to %s"
-msgstr ""
+msgstr "Potvrdna e-mail poruka je poslana %s"
 
 #: apps/customer/alerts/views.py:89
 msgid "Your stock alert is now active"
@@ -1811,7 +1811,7 @@ msgstr "Korisnik"
 #: templates/oscar/dashboard/orders/order_detail.html:39
 #: templates/oscar/dashboard/orders/order_detail.html:45
 msgid "Email address"
-msgstr ""
+msgstr "E-mail adresa"
 
 #: apps/customer/forms.py:120 apps/customer/forms.py:137
 #: apps/dashboard/partners/forms.py:76
@@ -1820,11 +1820,11 @@ msgstr "Lozinka"
 
 #: apps/customer/forms.py:130
 msgid "The entered password is not valid!"
-msgstr ""
+msgstr "Unešena lozinka nije ispravna!"
 
 #: apps/customer/forms.py:140
 msgid "Confirm password"
-msgstr ""
+msgstr "Potvrdite lozinku"
 
 #: apps/customer/forms.py:167 apps/dashboard/partners/forms.py:91
 msgid "The two password fields didn't match."
@@ -1833,12 +1833,12 @@ msgstr ""
 #: apps/customer/forms.py:189 apps/dashboard/orders/forms.py:21
 msgctxt "start date"
 msgid "From"
-msgstr ""
+msgstr "Od"
 
 #: apps/customer/forms.py:192 apps/dashboard/orders/forms.py:24
 msgctxt "end date"
 msgid "To"
-msgstr ""
+msgstr "Do"
 
 #: apps/customer/forms.py:194 apps/dashboard/communications/forms.py:24
 #: apps/dashboard/offers/reports.py:14 apps/dashboard/orders/forms.py:68
@@ -1850,7 +1850,7 @@ msgstr ""
 #: templates/oscar/dashboard/reports/partials/order_report.html:9
 #: templates/oscar/dashboard/vouchers/voucher_detail.html:62
 msgid "Order number"
-msgstr ""
+msgstr "Broj narudžbe"
 
 #: apps/customer/forms.py:200
 msgid "At least one field is required."
@@ -6748,15 +6748,15 @@ msgstr "Poništi"
 #: templates/oscar/customer/order/order_list.html:41
 #: templates/oscar/dashboard/orders/order_list.html:118
 msgid "Total inc tax"
-msgstr ""
+msgstr "Ukupno uključujući porez"
 
 #: templates/oscar/customer/order/order_list.html:56
 msgid "No orders match your search."
-msgstr ""
+msgstr "Niti jedna narudžba nije pronađena."
 
 #: templates/oscar/customer/order/order_list.html:58
 msgid "You haven't placed any orders."
-msgstr ""
+msgstr "Niste napravili niti jednu narudžbu."
 
 #: templates/oscar/customer/profile/profile.html:31
 msgid "Change password"
@@ -6764,15 +6764,15 @@ msgstr "Promjeni lozinku"
 
 #: templates/oscar/customer/profile/profile.html:32
 msgid "Edit profile"
-msgstr ""
+msgstr "Uredi profil"
 
 #: templates/oscar/customer/profile/profile_delete.html:5
 msgid "Please confirm your password to delete your profile."
-msgstr ""
+msgstr "Molimo, upišite vašu lozinku za brisanje vašeg profila."
 
 #: templates/oscar/customer/profile/profile_delete.html:10
 msgid "Warning"
-msgstr ""
+msgstr "Upozorenje"
 
 #: templates/oscar/customer/profile/profile_delete.html:11
 msgid ""
