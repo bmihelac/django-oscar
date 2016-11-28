@@ -2299,45 +2299,45 @@ msgstr ""
 
 #: apps/dashboard/catalogue/views.py:694
 msgid "Product type created successfully"
-msgstr ""
+msgstr "Tip artikla je uspješno kreiran"
 
 #: apps/dashboard/catalogue/views.py:703
 #, python-format
 msgid "Update product type '%s'"
-msgstr ""
+msgstr "Ažuriranje tipa artikla'%s'"
 
 #: apps/dashboard/catalogue/views.py:706
 msgid "Product type updated successfully"
-msgstr ""
+msgstr "Tip artikla je uspješno ažuriran"
 
 #: apps/dashboard/catalogue/views.py:722 apps/offer/abstract_models.py:785
 #: defaults.py:114
 #: templates/oscar/dashboard/catalogue/product_class_list.html:23
 msgid "Product Types"
-msgstr ""
+msgstr "Tipovi artikala"
 
 #: apps/dashboard/catalogue/views.py:734
 #, python-format
 msgid "Delete product type '%s'"
-msgstr ""
+msgstr "Obriši tip artikla '%s'"
 
 #: apps/dashboard/catalogue/views.py:739
 #, python-format
 msgid "Unable to delete '%s'"
-msgstr ""
+msgstr "Nije moguće obrisati '%s'"
 
 #: apps/dashboard/catalogue/views.py:741
 #, python-format
 msgid "%i products are still assigned to this type"
-msgstr ""
+msgstr "%i artikala je još uvijek dodijeljeno ovom tipu"
 
 #: apps/dashboard/catalogue/views.py:746
 msgid "Product type deleted successfully"
-msgstr ""
+msgstr "Tip artikla je uspješno izbrisan"
 
 #: apps/dashboard/communications/config.py:8
 msgid "Communications dashboard"
-msgstr ""
+msgstr "Nadzorna ploča komunikacija"
 
 #: apps/dashboard/communications/forms.py:15
 msgid "Email subject template"
