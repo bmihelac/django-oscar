@@ -5950,23 +5950,23 @@ msgstr "Nastavak"
 
 #: templates/oscar/checkout/nav.html:11 templates/oscar/checkout/nav.html:16
 msgid "1. Shipping address"
-msgstr ""
+msgstr "1. Adresa za dostavu"
 
 #: templates/oscar/checkout/nav.html:26 templates/oscar/checkout/nav.html:31
 msgid "2. Shipping method"
-msgstr ""
+msgstr "2. Način dostave"
 
 #: templates/oscar/checkout/nav.html:41 templates/oscar/checkout/nav.html:46
 msgid "3. Payment"
-msgstr ""
+msgstr "3. Plaćanje"
 
 #: templates/oscar/checkout/nav.html:53
 msgid "4. Preview"
-msgstr ""
+msgstr "4. Predogled"
 
 #: templates/oscar/checkout/nav.html:59
 msgid "5. Confirmation"
-msgstr ""
+msgstr "5. Potvrda"
 
 #: templates/oscar/checkout/payment_details.html:5
 msgid "Payment details"
@@ -5984,11 +5984,11 @@ msgstr ""
 
 #: templates/oscar/checkout/preview.html:5
 msgid "Order preview"
-msgstr ""
+msgstr "Pregled narudžbe"
 
 #: templates/oscar/checkout/preview.html:13
 msgid "Preview order"
-msgstr ""
+msgstr "Pregled narudžbe"
 
 #: templates/oscar/checkout/preview.html:35
 msgid "Place order"
@@ -5996,15 +5996,15 @@ msgstr "Potvrdi narudžbu"
 
 #: templates/oscar/checkout/shipping_address.html:19
 msgid "Where should we ship to?"
-msgstr ""
+msgstr "Gdje da pošaljemo narudžbu?"
 
 #: templates/oscar/checkout/shipping_address.html:23
 msgid "An address from your address book?"
-msgstr ""
+msgstr "Adresa iz vašeg adresara"
 
 #: templates/oscar/checkout/shipping_address.html:42
 msgid "Ship to your default shipping address"
-msgstr ""
+msgstr "Slanje na preuzetu adresu"
 
 #: templates/oscar/checkout/shipping_address.html:44
 msgid "Ship to this address"
