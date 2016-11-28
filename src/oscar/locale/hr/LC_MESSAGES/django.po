@@ -7014,7 +7014,7 @@ msgstr ""
 
 #: templates/oscar/dashboard/catalogue/product_class_list.html:15
 msgid "Create new product type"
-msgstr ""
+msgstr "Kreiraj novi tip artikla"
 
 #: templates/oscar/dashboard/catalogue/product_class_list.html:16
 msgid "Product types"
@@ -7022,19 +7022,19 @@ msgstr "Tipovi artikala"
 
 #: templates/oscar/dashboard/catalogue/product_class_list.html:27
 msgid "Requires shipping"
-msgstr ""
+msgstr "Zahtjeva slanje"
 
 #: templates/oscar/dashboard/catalogue/product_class_list.html:28
 msgid "Track stock?"
-msgstr ""
+msgstr "Pratiti zalihe?"
 
 #: templates/oscar/dashboard/catalogue/product_class_list.html:46
 msgid "Edit product type"
-msgstr ""
+msgstr "Uredi tip artikla"
 
 #: templates/oscar/dashboard/catalogue/product_class_list.html:57
 msgid "There are no product types."
-msgstr ""
+msgstr "Ne postoje tipovi artikala"
 
 #: templates/oscar/dashboard/catalogue/product_delete.html:37
 #, python-format
