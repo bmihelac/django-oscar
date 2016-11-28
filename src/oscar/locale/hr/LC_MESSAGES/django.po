@@ -4632,7 +4632,7 @@ msgstr ""
 
 #: apps/promotions/models.py:160 apps/promotions/models.py:161
 msgid "Raw HTML"
-msgstr ""
+msgstr "HTML kod"
 
 #: apps/promotions/models.py:178 apps/promotions/models.py:249
 msgid "Link URL"
@@ -4650,73 +4650,73 @@ msgstr ""
 
 #: apps/promotions/models.py:215
 msgid "Multi Image"
-msgstr ""
+msgstr "Više slika"
 
 #: apps/promotions/models.py:216
 msgid "Multi Images"
-msgstr ""
+msgstr "Više slika"
 
 #: apps/promotions/models.py:235 apps/promotions/models.py:236
 msgid "Single product"
-msgstr ""
+msgstr "Artikl"
 
 #: apps/promotions/models.py:246
 msgctxt "Promotion product list title"
 msgid "Title"
-msgstr ""
+msgstr "Ime liste"
 
 #: apps/promotions/models.py:250
 msgid "Link text"
-msgstr ""
+msgstr "Tekst linka"
 
 #: apps/promotions/models.py:256
 msgid "Product list"
-msgstr ""
+msgstr "Lista artikala"
 
 #: apps/promotions/models.py:257
 msgid "Product lists"
-msgstr ""
+msgstr "Liste artikala"
 
 #: apps/promotions/models.py:285
 msgid "Hand Picked Product List"
-msgstr ""
+msgstr "Ručno izabrana lista artikala"
 
 #: apps/promotions/models.py:286
 msgid "Hand Picked Product Lists"
-msgstr ""
+msgstr "Ručno izabrane liste artikala"
 
 #: apps/promotions/models.py:292
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: apps/promotions/models.py:300 apps/promotions/models.py:301
 msgid "Ordered product"
-msgstr ""
+msgstr "Naručen proizvod"
 
 #: apps/promotions/models.py:309
 msgid "Bestselling products"
-msgstr ""
+msgstr "Najbolje prodavani artikli"
 
 #: apps/promotions/models.py:310
 msgid "Recently added products"
-msgstr ""
+msgstr "Nedavno dodani artikli"
 
 #: apps/promotions/models.py:312 apps/shipping/abstract_models.py:195
 #: templates/oscar/checkout/shipping_methods.html:24
 msgid "Method"
-msgstr ""
+msgstr "Metoda"
 
 #: apps/promotions/models.py:314
 msgid "Number of Products"
-msgstr ""
+msgstr "Broj artikala"
 
 #: apps/promotions/models.py:329
 msgid "Automatic product list"
-msgstr ""
+msgstr "Automatska lista artikala"
 
 #: apps/promotions/models.py:330
 msgid "Automatic product lists"
-msgstr ""
+msgstr "Automatske liste artikala"
 
 #: apps/promotions/models.py:336 apps/promotions/models.py:355
 msgid "Tabbed Block"
@@ -8080,11 +8080,11 @@ msgstr ""
 #: templates/oscar/dashboard/promotions/delete.html:24
 #, python-format
 msgid "Delete content block '%(name)s'?\""
-msgstr ""
+msgstr "Obrisati blok sadržaja '%(name)s'?\""
 
 #: templates/oscar/dashboard/promotions/delete.html:29
 msgid "Delete content block"
-msgstr ""
+msgstr "Obrisati blok sadržaja"
 
 #: templates/oscar/dashboard/promotions/delete.html:34
 #, python-format
@@ -8096,11 +8096,11 @@ msgstr ""
 #: templates/oscar/dashboard/promotions/delete_pagepromotion.html:14
 #: templates/oscar/dashboard/promotions/delete_pagepromotion.html:19
 msgid "Remove promotion from page?"
-msgstr ""
+msgstr "Ukloniti promociju iz stranice?"
 
 #: templates/oscar/dashboard/promotions/delete_pagepromotion.html:24
 msgid "Remove promotion"
-msgstr ""
+msgstr "Ukloni promociju"
 
 #: templates/oscar/dashboard/promotions/delete_pagepromotion.html:28
 #, python-format
@@ -8111,108 +8111,108 @@ msgstr ""
 
 #: templates/oscar/dashboard/promotions/form.html:26
 msgid "Content block"
-msgstr ""
+msgstr "Blok sadržaja"
 
 #: templates/oscar/dashboard/promotions/form.html:45
 msgid "Pages displaying this content blocks"
-msgstr ""
+msgstr "Stranice koje prikazuju ovaj blok sadržaja"
 
 #: templates/oscar/dashboard/promotions/form.html:50
 msgid "Position on page"
-msgstr ""
+msgstr "Pozicija na stranici"
 
 #: templates/oscar/dashboard/promotions/form.html:64
 msgid "View all blocks on this page"
-msgstr ""
+msgstr "Pregled svih blokova na ovoj stranici"
 
 #: templates/oscar/dashboard/promotions/form.html:65
 msgid "Remove from page"
-msgstr ""
+msgstr "Obriši sa stranice"
 
 #: templates/oscar/dashboard/promotions/form.html:72
 msgid "This promotion is not displayed anywhere at the moment."
-msgstr ""
+msgstr "Ova promocija nije prikazana nigdje u ovom trenutku."
 
 #: templates/oscar/dashboard/promotions/form.html:76
 msgid "Add to a page"
-msgstr ""
+msgstr "Dodati na stranicu"
 
 #: templates/oscar/dashboard/promotions/form.html:83
 msgid "Add to page"
-msgstr ""
+msgstr "Dodati na stranicu"
 
 #: templates/oscar/dashboard/promotions/page_detail.html:9
 #: templates/oscar/dashboard/promotions/page_detail.html:25
 #, python-format
 msgid "Content blocks for page %(page_url)s"
-msgstr ""
+msgstr "Blokovi sadržaja za stranicu %(page_url)s"
 
 #: templates/oscar/dashboard/promotions/page_detail.html:20
 #, python-format
 msgid "Content blocks on page '%(page_url)s'"
-msgstr ""
+msgstr "Blokovi sadržaja na stranici '%(page_url)s'"
 
 #: templates/oscar/dashboard/promotions/page_detail.html:32
 #, python-format
 msgid "Edit promotions in position '%(name)s'"
-msgstr ""
+msgstr "Uređivanje promocija na poziciji '%(name)s'"
 
 #: templates/oscar/dashboard/promotions/page_detail.html:36
 msgid "Promotion Name"
-msgstr ""
+msgstr "Naziv promocije"
 
 #: templates/oscar/dashboard/promotions/page_detail.html:58
 msgid "Change display order"
-msgstr ""
+msgstr "Promjeni redoslijed prikazivanja"
 
 #: templates/oscar/dashboard/promotions/page_detail.html:65
 msgid "No promotions in this position."
-msgstr ""
+msgstr "Nema promocija na ovoj poziciji."
 
 #: templates/oscar/dashboard/promotions/pagepromotion_list.html:11
 msgid "Pages with content blocks"
-msgstr ""
+msgstr "Stranice sa blokovima sadržaja"
 
 #: templates/oscar/dashboard/promotions/pagepromotion_list.html:28
 msgid "View by page"
-msgstr ""
+msgstr "Pregled po stranici"
 
 #: templates/oscar/dashboard/promotions/pagepromotion_list.html:31
 msgid "View all content blocks"
-msgstr ""
+msgstr "Pregled svih blokova sadržaja"
 
 #: templates/oscar/dashboard/promotions/pagepromotion_list.html:32
 msgid "View content blocks by page"
-msgstr ""
+msgstr "Pregled blokova sadržaja prema stranici"
 
 #: templates/oscar/dashboard/promotions/pagepromotion_list.html:36
 msgid "Pages with content blocks on them"
-msgstr ""
+msgstr "Stranice sa blokovima sadržaja"
 
 #: templates/oscar/dashboard/promotions/pagepromotion_list.html:44
 msgid "Number of content blocks"
-msgstr ""
+msgstr "Broj blokova sadržaja"
 
 #: templates/oscar/dashboard/promotions/pagepromotion_list.html:61
 #: templates/oscar/dashboard/promotions/promotion_list.html:73
 msgid "No content blocks found."
-msgstr ""
+msgstr "Niti jedan blok sadržaja nije pronađen."
 
 #: templates/oscar/dashboard/promotions/promotion_list.html:27
 msgid "Create a new content block"
-msgstr ""
+msgstr "Kreiraj novi blok sadržaja"
 
 #: templates/oscar/dashboard/promotions/promotion_list.html:32
 msgid "Creating..."
-msgstr ""
+msgstr "Kreiranje...."
 
 #: templates/oscar/dashboard/promotions/promotion_list.html:32
 msgid "Create block"
-msgstr ""
+msgstr "Kreiraj blok"
 
 #: templates/oscar/dashboard/promotions/promotion_list.html:43
 msgid "Number of times used"
-msgstr ""
+msgstr "Broj korištenja"
 
 #: templates/oscar/dashboard/ranges/messages/range_products_saved.html:2
 #, python-format
