@@ -2733,20 +2733,20 @@ msgstr ""
 #: templates/oscar/dashboard/orders/order_detail.html:62
 #: templates/oscar/dashboard/orders/order_list.html:124
 msgid "Date of purchase"
-msgstr ""
+msgstr "Datum narudžbe"
 
 #: apps/dashboard/orders/views.py:380
 #: templates/oscar/dashboard/orders/order_list.html:119
 msgid "Number of items"
-msgstr ""
+msgstr "Broj artikala"
 
 #: apps/dashboard/orders/views.py:381
 msgid "Order status"
-msgstr ""
+msgstr "Status narudžbe"
 
 #: apps/dashboard/orders/views.py:382
 msgid "Customer email address"
-msgstr ""
+msgstr "E-mail adresa klijenta"
 
 #: apps/dashboard/orders/views.py:383
 msgid "Deliver to name"
@@ -7725,17 +7725,17 @@ msgstr ""
 #: templates/oscar/dashboard/orders/order_detail.html:321
 #: templates/oscar/dashboard/orders/order_list.html:158
 msgid "Change order status"
-msgstr ""
+msgstr "Izmjena statusa narudžbe"
 
 #: templates/oscar/dashboard/orders/order_detail.html:325
 #: templates/oscar/dashboard/orders/order_list.html:171
 msgid "Change status"
-msgstr ""
+msgstr "Izmjeni status"
 
 #: templates/oscar/dashboard/orders/order_detail.html:327
 #: templates/oscar/dashboard/orders/order_list.html:173
 msgid "This order can't have its status changed."
-msgstr ""
+msgstr "Ova narudžba ne može imati izmjenjen status."
 
 #: templates/oscar/dashboard/orders/order_detail.html:357
 #, python-format
@@ -7748,11 +7748,11 @@ msgstr ""
 
 #: templates/oscar/dashboard/orders/order_detail.html:371
 msgid "No shipping events."
-msgstr ""
+msgstr "Nema događaja povezanih sa slanjem."
 
 #: templates/oscar/dashboard/orders/order_detail.html:404
 msgid "Product:"
-msgstr ""
+msgstr "Artikl:"
 
 #: templates/oscar/dashboard/orders/order_detail.html:404
 msgid "quantity"
@@ -7760,47 +7760,47 @@ msgstr "količina"
 
 #: templates/oscar/dashboard/orders/order_detail.html:414
 msgid "No payment events."
-msgstr ""
+msgstr "Nema događaja povezanih sa plaćanjem."
 
 #: templates/oscar/dashboard/orders/order_detail.html:430
 msgid "Method name"
-msgstr ""
+msgstr "Naziv metode"
 
 #: templates/oscar/dashboard/orders/order_detail.html:434
 msgid "Method code"
-msgstr ""
+msgstr "Šifra metode"
 
 #: templates/oscar/dashboard/orders/order_detail.html:438
 msgid "Charge (incl tax)"
-msgstr ""
+msgstr "Naplata (uključujući porez)"
 
 #: templates/oscar/dashboard/orders/order_detail.html:442
 msgid "Charge (excl tax)"
-msgstr ""
+msgstr "Naplata (isključujući porez)"
 
 #: templates/oscar/dashboard/orders/order_detail.html:485
 msgid "Payment sources"
-msgstr ""
+msgstr "Izvori plaćanja"
 
 #: templates/oscar/dashboard/orders/order_detail.html:492
 msgid "Allocation"
-msgstr ""
+msgstr "Raspodjela"
 
 #: templates/oscar/dashboard/orders/order_detail.html:493
 msgid "Amount debited"
-msgstr ""
+msgstr "Terećen iznos"
 
 #: templates/oscar/dashboard/orders/order_detail.html:494
 msgid "Amount refunded"
-msgstr ""
+msgstr "Iznos povrata"
 
 #: templates/oscar/dashboard/orders/order_detail.html:512
 msgid "No payment sources found for this order."
-msgstr ""
+msgstr "Nisu pronađeni izvori plaćanja za ovu narudžbu."
 
 #: templates/oscar/dashboard/orders/order_detail.html:592
 msgid "No discounts were applied to this order."
-msgstr ""
+msgstr "Popusti nisu primjenjeni na ovu narudžbu."
 
 #: templates/oscar/dashboard/orders/order_detail.html:613
 msgid "Admin"
@@ -7808,24 +7808,24 @@ msgstr ""
 
 #: templates/oscar/dashboard/orders/order_detail.html:636
 msgid "No notes available."
-msgstr ""
+msgstr "Bilješke nisu dostupne"
 
 #: templates/oscar/dashboard/orders/order_detail.html:647
 msgid "Save note"
-msgstr ""
+msgstr "Spremi bilješku"
 
 #: templates/oscar/dashboard/orders/order_detail.html:648
 msgid "Notes are only editable for 5 minutes after being saved."
-msgstr ""
+msgstr "Bilješke se mogu urediti samo 5 minuta nakon što su spremljene."
 
 #: templates/oscar/dashboard/orders/order_list.html:52
 #: templates/oscar/dashboard/orders/order_list.html:61
 msgid "Advanced Search"
-msgstr ""
+msgstr "Napredno pretraživanje"
 
 #: templates/oscar/dashboard/orders/order_list.html:72
 msgid "Close"
-msgstr ""
+msgstr "Zatvori"
 
 #: templates/oscar/dashboard/orders/order_list.html:101
 #: templates/oscar/dashboard/orders/order_list.html:185
