@@ -1112,7 +1112,7 @@ msgstr "Preporučeni artikl"
 
 #: apps/catalogue/abstract_models.py:699
 msgid "Ranking"
-msgstr "Ocjena"
+msgstr "Rangiranje"
 
 #: apps/catalogue/abstract_models.py:700
 msgid ""
@@ -7150,11 +7150,11 @@ msgstr ""
 
 #: templates/oscar/dashboard/catalogue/product_update.html:249
 msgid "Add variant"
-msgstr ""
+msgstr "Dodaj varijaciju artikla"
 
 #: templates/oscar/dashboard/catalogue/product_update.html:278
 msgid "This product does not have any variants."
-msgstr ""
+msgstr "Ovaj artikl nema ni jedne varijacije."
 
 #: templates/oscar/dashboard/catalogue/product_update.html:280
 msgid "One can't add variants to this product at this point."
@@ -7166,16 +7166,16 @@ msgstr "To je najvjerojatnije jer artikl ima podatke o zalihama."
 
 #: templates/oscar/dashboard/catalogue/product_update.html:326
 msgid "Save and add another variant"
-msgstr ""
+msgstr "Spremi i dodaj novu varijaciju"
 
 #: templates/oscar/dashboard/catalogue/product_update.html:330
 msgid "Save and continue editing"
-msgstr ""
+msgstr "Spremi i nastavi uređivati"
 
 #: templates/oscar/dashboard/catalogue/stockalert_list.html:37
 #: templates/oscar/dashboard/ranges/range_list.html:49
 msgid "All"
-msgstr ""
+msgstr "Sve"
 
 #: templates/oscar/dashboard/catalogue/stockalert_list.html:51
 msgid "Current available stock"
