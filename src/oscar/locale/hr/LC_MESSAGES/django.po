@@ -1731,34 +1731,34 @@ msgstr ""
 
 #: apps/customer/abstract_models.py:329
 msgid "Not yet confirmed"
-msgstr ""
+msgstr "Još nije potvrđeno"
 
 #: apps/customer/abstract_models.py:331
 msgid "Cancelled"
-msgstr ""
+msgstr "Otkazano"
 
 #: apps/customer/abstract_models.py:332 apps/partner/abstract_models.py:242
 #: templates/oscar/dashboard/catalogue/stockalert_list.html:39
 msgid "Closed"
-msgstr ""
+msgstr "Zatvoreno"
 
 #: apps/customer/abstract_models.py:338
 #: templates/oscar/dashboard/users/alerts/partials/alert.html:29
 msgid "Date confirmed"
-msgstr ""
+msgstr "Datum potvrde"
 
 #: apps/customer/abstract_models.py:340
 #: templates/oscar/dashboard/users/alerts/partials/alert.html:35
 msgid "Date cancelled"
-msgstr ""
+msgstr "Datum otkazivanja"
 
 #: apps/customer/abstract_models.py:342
 msgid "Date closed"
-msgstr ""
+msgstr "Datum zatvanja"
 
 #: apps/customer/abstract_models.py:347
 msgid "Product alert"
-msgstr ""
+msgstr "Alarm za obavijest o proizvodu"
 
 #: apps/customer/abstract_models.py:348
 #: templates/oscar/dashboard/users/alerts/delete.html:17
@@ -1767,17 +1767,17 @@ msgstr ""
 #: templates/oscar/dashboard/users/alerts/list.html:21
 #: templates/oscar/dashboard/users/alerts/update.html:16
 msgid "Product alerts"
-msgstr ""
+msgstr "Alarmi za obavijest o proizvodu"
 
 #: apps/customer/alerts/views.py:21
 #: templates/oscar/customer/baseaccountpage.html:42
 #: templates/oscar/customer/partials/nav_account.html:32
 msgid "Product Alerts"
-msgstr ""
+msgstr "Alarmi za obavijest o proizvodima"
 
 #: apps/customer/alerts/views.py:69
 msgid "An alert has been created"
-msgstr ""
+msgstr "Alarm za obavijest o proizvodu je kreiran"
 
 #: apps/customer/alerts/views.py:71
 #, python-format
@@ -1828,7 +1828,7 @@ msgstr "Potvrdite lozinku"
 
 #: apps/customer/forms.py:167 apps/dashboard/partners/forms.py:91
 msgid "The two password fields didn't match."
-msgstr ""
+msgstr "Lozinke nisu iste"
 
 #: apps/customer/forms.py:189 apps/dashboard/orders/forms.py:21
 msgctxt "start date"
@@ -2644,7 +2644,7 @@ msgstr ""
 
 #: apps/dashboard/orders/forms.py:149
 msgid "New order status"
-msgstr ""
+msgstr "Novi status narudžbe"
 
 #: apps/dashboard/orders/views.py:248
 #, python-brace-format
@@ -2929,7 +2929,7 @@ msgstr ""
 #: apps/partner/abstract_models.py:26
 msgctxt "Partner's name"
 msgid "Name"
-msgstr ""
+msgstr "Ime partnera"
 
 #: apps/dashboard/partners/forms.py:35
 msgid "Full dashboard access"
@@ -3253,7 +3253,7 @@ msgstr ""
 #: apps/dashboard/users/forms.py:15
 msgctxt "User's name"
 msgid "Name"
-msgstr ""
+msgstr "Ime kupca"
 
 #: apps/dashboard/users/views.py:35
 #, python-format
@@ -3262,17 +3262,17 @@ msgstr ""
 
 #: apps/dashboard/users/views.py:63
 msgid "All users"
-msgstr ""
+msgstr "Svi kupci"
 
 #: apps/dashboard/users/views.py:80
 #, python-format
 msgid " with email matching '%s'"
-msgstr ""
+msgstr " sa e-mailom koji koji se podudara sa '%s'"
 
 #: apps/dashboard/users/views.py:93
 #, python-format
 msgid " with name matching '%s'"
-msgstr ""
+msgstr " sa imenom koje koje se podudara sa '%s'"
 
 #: apps/dashboard/users/views.py:118
 msgid "Users' status successfully changed"
@@ -3284,7 +3284,7 @@ msgstr ""
 
 #: apps/dashboard/users/views.py:161
 msgid "All Alerts"
-msgstr ""
+msgstr "Svi alarmi"
 
 #: apps/dashboard/users/views.py:202
 #, python-format
@@ -5082,7 +5082,7 @@ msgstr ""
 #: templates/oscar/dashboard/users/index.html:14
 #: templates/oscar/dashboard/users/index.html:23
 msgid "Customers"
-msgstr ""
+msgstr "Kupci"
 
 #: defaults.py:166
 msgid "Stock alert requests"
