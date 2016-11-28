@@ -3711,31 +3711,31 @@ msgstr ""
 #: templates/oscar/dashboard/ranges/range_list.html:27
 #: templates/oscar/dashboard/ranges/range_product_list.html:16
 msgid "Ranges"
-msgstr "Skup proizvoda"
+msgstr "Skup artikala"
 
 #: apps/offer/abstract_models.py:1013
 msgid "File Path"
-msgstr ""
+msgstr "Varijacila artikla"
 
 #: apps/offer/abstract_models.py:1014
 msgid "Size"
-msgstr ""
+msgstr "Varijacila artikla"
 
 #: apps/offer/abstract_models.py:1016
 msgid "Uploaded By"
-msgstr ""
+msgstr "Varijacila artikla"
 
 #: apps/offer/abstract_models.py:1017
 msgid "Date Uploaded"
-msgstr ""
+msgstr "Varijacila artikla"
 
 #: apps/offer/abstract_models.py:1027
 msgid "Error Message"
-msgstr ""
+msgstr "Varijacila artikla"
 
 #: apps/offer/abstract_models.py:1031
 msgid "Date Processed"
-msgstr ""
+msgstr "Varijacila artikla"
 
 #: apps/offer/abstract_models.py:1032
 msgid "Number of New SKUs"
@@ -4102,32 +4102,32 @@ msgstr ""
 
 #: apps/order/abstract_models.py:769
 msgid "Shiping (inc. tax)"
-msgstr ""
+msgstr "Dostava (uključujući porez)"
 
 #: apps/order/abstract_models.py:771
 msgid "Shipping (excl. tax)"
-msgstr ""
+msgstr "Dostava (bez poreza)"
 
 #: apps/order/abstract_models.py:777
 msgid "Line Price"
-msgstr ""
+msgstr "Redak cijena"
 
 #: apps/order/abstract_models.py:778
 msgid "Line Prices"
-msgstr ""
+msgstr "Retci cijene"
 
 #: apps/order/abstract_models.py:781
 #, python-format
 msgid "Line '%(number)s' (quantity %(qty)d) price %(price)s"
-msgstr ""
+msgstr "Linija '%(number)s' (količina %(qty)d) cijena %(price)s"
 
 #: apps/order/abstract_models.py:804
 msgid "Payment Event Type"
-msgstr ""
+msgstr "Tip događaja povezan sa plaćanjem"
 
 #: apps/order/abstract_models.py:805
 msgid "Payment Event Types"
-msgstr ""
+msgstr "Tipovi događaja povezani sa plaćanjem"
 
 #: apps/order/abstract_models.py:826 apps/order/abstract_models.py:1017
 #: apps/payment/abstract_models.py:39
@@ -4145,27 +4145,27 @@ msgstr "Iznos"
 #: templates/oscar/dashboard/orders/order_detail.html:495
 #: templates/oscar/dashboard/orders/order_detail.html:527
 msgid "Reference"
-msgstr ""
+msgstr "Referenca"
 
 #: apps/order/abstract_models.py:833 apps/order/abstract_models.py:890
 #: templates/oscar/dashboard/orders/order_detail.html:344
 #: templates/oscar/dashboard/orders/order_detail.html:391
 msgid "Lines"
-msgstr ""
+msgstr "Retci"
 
 #: apps/order/abstract_models.py:847
 msgid "Payment Event"
-msgstr ""
+msgstr "Događaj povezan sa plaćanjem"
 
 #: apps/order/abstract_models.py:848
 #: templates/oscar/dashboard/orders/order_detail.html:381
 msgid "Payment Events"
-msgstr ""
+msgstr "Događaji povezani sa plaćanjem"
 
 #: apps/order/abstract_models.py:852
 #, python-format
 msgid "Payment event for order %s"
-msgstr ""
+msgstr "Događaj povezan sa plaćanjem za narudžbu %s"
 
 #: apps/order/abstract_models.py:864 apps/order/abstract_models.py:925
 #: templates/oscar/dashboard/orders/line_detail.html:135
@@ -4173,66 +4173,66 @@ msgstr ""
 #: templates/oscar/dashboard/orders/order_detail.html:343
 #: templates/oscar/dashboard/orders/order_detail.html:389
 msgid "Event"
-msgstr ""
+msgstr "Događaj"
 
 #: apps/order/abstract_models.py:872
 msgid "Payment Event Quantity"
-msgstr ""
+msgstr "Događaj povezan s plaćanjem količina"
 
 #: apps/order/abstract_models.py:873
 msgid "Payment Event Quantities"
-msgstr ""
+msgstr "Događaj povezan s plaćanjem količine"
 
 #: apps/order/abstract_models.py:894
 msgid "Event notes"
-msgstr ""
+msgstr "Bilješke događaja"
 
 #: apps/order/abstract_models.py:895
 msgid "This could be the dispatch reference, or a tracking number"
-msgstr ""
+msgstr "Ovo može biti referenca za slanje ili broj za praćenje"
 
 #: apps/order/abstract_models.py:902
 msgid "Shipping Event"
-msgstr ""
+msgstr "Događaj povezan sa slanjem"
 
 #: apps/order/abstract_models.py:903
 #: templates/oscar/dashboard/orders/order_detail.html:335
 msgid "Shipping Events"
-msgstr ""
+msgstr "Događaji povezani sa slanjem"
 
 #: apps/order/abstract_models.py:907
 #, python-format
 msgid "Order #%(number)s, type %(type)s"
-msgstr ""
+msgstr "Narudžba #%(number)s, vrsta %(type)s"
 
 #: apps/order/abstract_models.py:933
 msgid "Shipping Event Quantity"
-msgstr ""
+msgstr "Događaj povezan sa slanjem količina"
 
 #: apps/order/abstract_models.py:934
 msgid "Shipping Event Quantities"
-msgstr ""
+msgstr "Događaj povezan sa slanjem količine"
 
 #: apps/order/abstract_models.py:948
 #, python-format
 msgid "%(product)s - quantity %(qty)d"
-msgstr ""
+msgstr "%(product)s - količina %(qty)d"
 
 #: apps/order/abstract_models.py:969
 msgid "Shipping Event Type"
-msgstr ""
+msgstr "Tip događaja povezan sa slanjem"
 
 #: apps/order/abstract_models.py:970
 msgid "Shipping Event Types"
-msgstr ""
+msgstr "Tipovi događaja povezan sa slanjem"
 
 #: apps/order/abstract_models.py:1004
 msgid "Discount category"
-msgstr ""
+msgstr "Kategorija popusta"
 
 #: apps/order/abstract_models.py:1008
 msgid "Offer ID"
-msgstr ""
+msgstr "Ponuda ID"
 
 #: apps/order/abstract_models.py:1012
 msgid "Voucher ID"
@@ -4242,20 +4242,20 @@ msgstr ""
 #: templates/oscar/dashboard/orders/order_detail.html:564
 #: templates/oscar/dashboard/orders/statistics.html:58
 msgid "Frequency"
-msgstr ""
+msgstr "Učestalost"
 
 #: apps/order/abstract_models.py:1038
 msgid "Order Discount"
-msgstr ""
+msgstr "Popust narudžbe"
 
 #: apps/order/abstract_models.py:1039
 msgid "Order Discounts"
-msgstr ""
+msgstr "Popusti narudžbe"
 
 #: apps/order/abstract_models.py:1055
 #, python-format
 msgid "Discount of %(amount)r from order %(order)s"
-msgstr ""
+msgstr "Popust od %(amount)r iz narudžbe %(order)s"
 
 #: apps/order/processing.py:87 apps/order/processing.py:99
 #, python-format
@@ -4265,27 +4265,27 @@ msgstr ""
 #: apps/order/reports.py:23
 #: templates/oscar/dashboard/reports/partials/order_report.html:12
 msgid "Total incl. tax"
-msgstr ""
+msgstr "Ukupno uključujući porez"
 
 #: apps/order/reports.py:24
 #: templates/oscar/dashboard/reports/partials/order_report.html:13
 #: templates/oscar/dashboard/users/detail.html:123
 #: templates/oscar/dashboard/vouchers/voucher_detail.html:65
 msgid "Date placed"
-msgstr ""
+msgstr "Odano na datum"
 
 #: apps/order/reports.py:46
 msgid "Orders placed"
-msgstr ""
+msgstr "Odane narudžbe"
 
 #: apps/order/utils.py:46
 msgid "Empty baskets cannot be submitted"
-msgstr ""
+msgstr "Prazna košarica ne može biti poslana"
 
 #: apps/order/utils.py:57
 #, python-format
 msgid "There is already an order with number %s"
-msgstr ""
+msgstr "Već postoji narudžba sa brojem %s"
 
 #: apps/partner/abstract_models.py:73
 msgid "Fulfillment partner"
@@ -4305,15 +4305,15 @@ msgstr ""
 
 #: apps/partner/abstract_models.py:133
 msgid "Number in stock"
-msgstr ""
+msgstr "Broj na zalihi"
 
 #: apps/partner/abstract_models.py:139
 msgid "Number allocated"
-msgstr ""
+msgstr "Broj raspodjeljen"
 
 #: apps/partner/abstract_models.py:144
 msgid "Low Stock Threshold"
-msgstr ""
+msgstr "Prag niske zalihe"
 
 #: apps/partner/abstract_models.py:210
 msgid "Invalid stock consumption request"
@@ -4325,7 +4325,7 @@ msgstr ""
 
 #: apps/partner/abstract_models.py:238
 msgid "Threshold"
-msgstr ""
+msgstr "Prag"
 
 #: apps/partner/abstract_models.py:241
 #: templates/oscar/dashboard/catalogue/stockalert_list.html:38
@@ -4354,34 +4354,34 @@ msgstr ""
 
 #: apps/partner/availability.py:42
 msgid "unavailable"
-msgstr ""
+msgstr "nedostupno"
 
 #: apps/partner/availability.py:53 apps/partner/availability.py:104
 #: apps/partner/availability.py:110
 msgid "Unavailable"
-msgstr ""
+msgstr "Nedostupno"
 
 #: apps/partner/availability.py:64
 msgid "Available"
-msgstr ""
+msgstr "Dostupno"
 
 #: apps/partner/availability.py:87
 msgid "no stock available"
-msgstr ""
+msgstr "Nije na zalihi"
 
 #: apps/partner/availability.py:89
 #, python-format
 msgid "a maximum of %(max)d can be bought"
-msgstr ""
+msgstr "najviše %(max)d može biti kupljen"
 
 #: apps/partner/availability.py:103
 msgid "In stock"
-msgstr ""
+msgstr "Na zalihi"
 
 #: apps/partner/availability.py:109
 #, python-format
 msgid "In stock (%d available)"
-msgstr ""
+msgstr "Na zalihi (%d available)"
 
 #: apps/partner/importers.py:35
 msgid "No file path supplied"
