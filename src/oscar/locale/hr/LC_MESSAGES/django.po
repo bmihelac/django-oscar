@@ -1354,12 +1354,12 @@ msgstr ""
 #: templates/oscar/customer/notifications/detail.html:28
 #: templates/oscar/dashboard/users/detail.html:179
 msgid "Body"
-msgstr ""
+msgstr "Sadržaj"
 
 #: apps/catalogue/reviews/abstract_models.py:44
 msgctxt "Anonymous reviewer name"
 msgid "Name"
-msgstr ""
+msgstr "Vaše ime"
 
 #: apps/catalogue/reviews/abstract_models.py:47
 #: apps/dashboard/pages/forms.py:25 apps/dashboard/promotions/forms.py:70
@@ -8468,7 +8468,7 @@ msgstr ""
 #: templates/oscar/dashboard/reviews/review_list.html:56
 msgctxt "Review title"
 msgid "Title"
-msgstr ""
+msgstr "Naziv recenzije"
 
 #: templates/oscar/dashboard/reviews/review_list.html:75
 msgid "[Product deleted]"
