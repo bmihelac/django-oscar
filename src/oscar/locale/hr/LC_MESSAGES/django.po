@@ -6192,12 +6192,12 @@ msgstr ""
 #: templates/oscar/dashboard/vouchers/voucher_form.html:45
 #: templates/oscar/partials/form.html:11
 msgid "Save"
-msgstr ""
+msgstr "Spremi"
 
 #: templates/oscar/customer/address/address_delete.html:8
 #: templates/oscar/customer/address/address_form.html:8
 msgid "Address book"
-msgstr ""
+msgstr "Adresar"
 
 #: templates/oscar/customer/address/address_delete.html:20
 #: templates/oscar/customer/notifications/list.html:50
@@ -6217,15 +6217,15 @@ msgstr ""
 #: templates/oscar/dashboard/users/alerts/delete.html:37
 #: templates/oscar/dashboard/vouchers/voucher_delete.html:48
 msgid "Deleting..."
-msgstr ""
+msgstr "Brisanje...."
 
 #: templates/oscar/customer/address/address_list.html:17
 msgid "Default shipping address"
-msgstr ""
+msgstr "Preuzeta adresa za slanje"
 
 #: templates/oscar/customer/address/address_list.html:20
 msgid "Default billing address"
-msgstr ""
+msgstr "Preuzeta adresa za naplatu"
 
 #: templates/oscar/customer/address/address_list.html:30
 #: templates/oscar/dashboard/catalogue/product_row_actions.html:11
@@ -6256,15 +6256,15 @@ msgstr ""
 #: templates/oscar/dashboard/vouchers/voucher_form.html:24
 #: templates/oscar/dashboard/vouchers/voucher_list.html:88
 msgid "Edit"
-msgstr ""
+msgstr "Uredi"
 
 #: templates/oscar/customer/address/address_list.html:44
 msgid "Set as default shipping address"
-msgstr ""
+msgstr "Spremi kao preuzetu adresu za slanje"
 
 #: templates/oscar/customer/address/address_list.html:51
 msgid "Set as default billing address"
-msgstr ""
+msgstr "Spremi kao preuzetu adresu za naplatu"
 
 #: templates/oscar/customer/address/address_list.html:64
 msgid "There are no addresses in your address book."
@@ -6284,12 +6284,12 @@ msgstr ""
 #: templates/oscar/customer/alerts/emails/alert_body.txt:1
 #, python-format
 msgid "Dear %(name)s,"
-msgstr ""
+msgstr "Dragi %(name)s,"
 
 #: templates/oscar/customer/alerts/emails/alert_body.txt:1
 #: templates/oscar/customer/emails/commtype_order_placed_body.html:4
 msgid "Hello,"
-msgstr ""
+msgstr "Pozdrav,"
 
 #: templates/oscar/customer/alerts/emails/alert_body.txt:2
 #, python-format
