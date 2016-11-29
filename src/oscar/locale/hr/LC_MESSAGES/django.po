@@ -1488,7 +1488,7 @@ msgstr ""
 
 #: apps/catalogue/views.py:135 templates/oscar/partials/nav_primary.html:45
 msgid "All products"
-msgstr ""
+msgstr "Svi artikli"
 
 #: apps/checkout/config.py:8
 #: templates/oscar/basket/partials/basket_quick.html:39
@@ -2019,22 +2019,22 @@ msgstr ""
 #: apps/customer/views.py:594
 #, python-format
 msgid "'%s' has been added to your basket"
-msgstr ""
+msgstr "Artikl '%s' je dodan u vašu košaricu"
 
 #: apps/customer/views.py:622 templates/oscar/customer/baseaccountpage.html:36
 #: templates/oscar/customer/partials/nav_account.html:26
 msgid "Address Book"
-msgstr ""
+msgstr "Adresar"
 
 #: apps/customer/views.py:634 apps/customer/views.py:644
 #: templates/oscar/customer/address/address_list.html:67
 msgid "Add a new address"
-msgstr ""
+msgstr "Nova adresa"
 
 #: apps/customer/views.py:649
 #, python-format
 msgid "Address '%s' created"
-msgstr ""
+msgstr "Adresa '%s' je kreirana"
 
 #: apps/customer/views.py:658 apps/customer/views.py:668
 #: templates/oscar/checkout/shipping_address.html:48
@@ -5723,7 +5723,7 @@ msgstr ""
 #: templates/oscar/catalogue/partials/add_to_wishlist.html:31
 #: templates/oscar/catalogue/partials/add_to_wishlist.html:46
 msgid "Add to wish list"
-msgstr ""
+msgstr "Dodaj u listu želja"
 
 #: templates/oscar/catalogue/partials/add_to_wishlist.html:17
 #, python-format
@@ -5735,7 +5735,7 @@ msgstr ""
 
 #: templates/oscar/catalogue/partials/add_to_wishlist.html:24
 msgid "Create a new wishlist"
-msgstr ""
+msgstr "Kreiraj novu listu želja"
 
 #: templates/oscar/catalogue/partials/add_to_wishlist.html:38
 #, python-format
@@ -5752,11 +5752,11 @@ msgstr ""
 #: templates/oscar/dashboard/promotions/form.html:65
 #: templates/oscar/dashboard/ranges/range_product_list.html:88
 msgid "Removing..."
-msgstr ""
+msgstr "Brisanje...."
 
 #: templates/oscar/catalogue/partials/add_to_wishlist.html:46
 msgid "Please login to add products to a wish list."
-msgstr ""
+msgstr "Molimo prijavite se za dodavanje artikla u listu želja"
 
 #: templates/oscar/catalogue/partials/review.html:23
 #, python-format
@@ -6839,22 +6839,26 @@ msgid ""
 "'%(name)s' wish list\n"
 "                                                        "
 msgstr ""
+"\n"
+"                                                            Premjesti u "
+"'%(name)s' listu želja\n"
+"                                                        "
 
 #: templates/oscar/customer/wishlists/wishlists_detail.html:100
 msgid "Update quantities"
-msgstr ""
+msgstr "Ažuriraj količine"
 
 #: templates/oscar/customer/wishlists/wishlists_detail.html:109
 msgid "Your wish list is empty."
-msgstr ""
+msgstr "Vaša lista želja je prazna"
 
 #: templates/oscar/customer/wishlists/wishlists_form.html:19
 msgid "Create"
-msgstr ""
+msgstr "Kreiraj"
 
 #: templates/oscar/customer/wishlists/wishlists_form.html:29
 msgid "What should your new wish list be called?"
-msgstr ""
+msgstr "Kako će se zvati vaša lista želja"
 
 #: templates/oscar/customer/wishlists/wishlists_form.html:34
 #, python-format
@@ -6867,11 +6871,11 @@ msgstr ""
 
 #: templates/oscar/customer/wishlists/wishlists_list.html:10
 msgid "Number of products"
-msgstr ""
+msgstr "Broj artikala"
 
 #: templates/oscar/customer/wishlists/wishlists_list.html:26
 msgid "Wish list settings"
-msgstr ""
+msgstr "Lista želja postavke"
 
 #: templates/oscar/customer/wishlists/wishlists_list.html:44
 msgid "You don't have any wish lists yet."
@@ -8967,6 +8971,9 @@ msgid ""
 "        Products matching \"%(q)s\"\n"
 "    "
 msgstr ""
+"\n"
+"        Rezultati za \"%(q)s\"\n"
+"    "
 
 #: templates/oscar/search/results.html:54
 #, python-format
