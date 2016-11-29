@@ -201,9 +201,11 @@ A sample pipeline (as used in the Oscar sandbox) might look like this::
     OSCAR_INITIAL_LINE_STATUS = 'Pending'
     OSCAR_ORDER_STATUS_PIPELINE = {
         'Pending': ('Being processed', 'Cancelled',),
-        'Being processed': ('Processed', 'Cancelled',),
+        'Being processed': ('Complete', 'Cancelled',),
         'Cancelled': (),
+        'Complete': (),
     }
+
 
 ``OSCAR_ORDER_STATUS_CASCADE``
 ------------------------------
