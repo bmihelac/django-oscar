@@ -6481,22 +6481,22 @@ msgstr ""
 #: templates/oscar/customer/emails/commtype_order_placed_body.txt:10
 #: templates/oscar/partials/mini_basket.html:5
 msgid "Basket total:"
-msgstr ""
+msgstr "Ukupno:"
 
 #: templates/oscar/customer/emails/commtype_order_placed_body.html:18
 #: templates/oscar/customer/emails/commtype_order_placed_body.txt:11
 msgid "Shipping:"
-msgstr ""
+msgstr "Dostava:"
 
 #: templates/oscar/customer/emails/commtype_order_placed_body.html:19
 #: templates/oscar/customer/emails/commtype_order_placed_body.txt:12
 msgid "Order Total:"
-msgstr ""
+msgstr "Ukupno:"
 
 #: templates/oscar/customer/emails/commtype_order_placed_body.html:22
 #: templates/oscar/customer/emails/commtype_order_placed_body.txt:14
 msgid "Shipping address:"
-msgstr ""
+msgstr "Adresa za dostavu:"
 
 #: templates/oscar/customer/emails/commtype_order_placed_body.html:27
 #, python-format
@@ -6528,7 +6528,7 @@ msgstr ""
 #: templates/oscar/customer/emails/commtype_order_placed_subject.txt:1
 #, python-format
 msgid "Confirmation of order %(number)s"
-msgstr ""
+msgstr "Potvrda narudžbe %(number)s"
 
 #: templates/oscar/customer/emails/commtype_password_changed_body.html:5
 #, python-format
@@ -6585,30 +6585,30 @@ msgstr ""
 #: templates/oscar/customer/emails/commtype_registration_body.txt:1
 #: templates/oscar/customer/emails/commtype_registration_subject.txt:1
 msgid "Thank you for registering."
-msgstr ""
+msgstr "Hvala na registraciji."
 
 #: templates/oscar/customer/history/recently_viewed_products.html:7
 msgid "Products you recently viewed"
-msgstr ""
+msgstr "Artikli  koje ste nedavno pregledali"
 
 #: templates/oscar/customer/login_registration.html:5
 #: templates/oscar/customer/login_registration.html:13
 #: templates/oscar/partials/nav_accounts.html:51
 msgid "Login or register"
-msgstr ""
+msgstr "Prijava ili registracija"
 
 #: templates/oscar/customer/login_registration.html:24
 #: templates/oscar/customer/login_registration.html:28
 msgid "Log In"
-msgstr ""
+msgstr "Prijava"
 
 #: templates/oscar/customer/login_registration.html:27
 msgid "I've forgotten my password"
-msgstr ""
+msgstr "Zaboravio sam lozinku"
 
 #: templates/oscar/customer/login_registration.html:28
 msgid "Logging in..."
-msgstr ""
+msgstr "Prijava..."
 
 #: templates/oscar/customer/login_registration.html:33
 #: templates/oscar/customer/login_registration.html:36
@@ -6617,12 +6617,12 @@ msgstr ""
 #: templates/oscar/customer/registration.html:19
 #: templates/oscar/customer/registration.html:28
 msgid "Register"
-msgstr ""
+msgstr "Registracija"
 
 #: templates/oscar/customer/login_registration.html:36
 #: templates/oscar/customer/registration.html:28
 msgid "Registering..."
-msgstr ""
+msgstr "Registracija..."
 
 #: templates/oscar/customer/notifications/detail.html:6
 msgid "Notifications inbox"
@@ -6630,7 +6630,7 @@ msgstr ""
 
 #: templates/oscar/customer/notifications/detail.html:14
 msgid "Sender"
-msgstr ""
+msgstr "Pošiljatelj"
 
 #: templates/oscar/customer/notifications/detail.html:38
 msgid "Return to notifications inbox"
@@ -6639,7 +6639,7 @@ msgstr ""
 #: templates/oscar/customer/notifications/list.html:8
 msgctxt "noun"
 msgid "Archive"
-msgstr ""
+msgstr "Arhiv"
 
 #: templates/oscar/customer/notifications/list.html:36
 #: templates/oscar/customer/wishlists/wishlists_list.html:19
@@ -6651,7 +6651,7 @@ msgstr ""
 #: templates/oscar/dashboard/users/detail.html:134
 #: templates/oscar/dashboard/users/user_row_actions.html:2
 msgid "View"
-msgstr ""
+msgstr "Pregled"
 
 #: templates/oscar/customer/notifications/list.html:38
 #: templates/oscar/customer/notifications/list.html:48
@@ -6674,7 +6674,7 @@ msgstr ""
 #: templates/oscar/customer/order/order_detail.html:9
 #: templates/oscar/customer/order/order_list.html:14
 msgid "Order history"
-msgstr ""
+msgstr "Povijest narudžbi"
 
 #: templates/oscar/customer/order/order_detail.html:18
 msgid "Dispatch date"
@@ -6683,12 +6683,12 @@ msgstr ""
 #: templates/oscar/customer/order/order_detail.html:54
 #: templates/oscar/customer/order/order_detail.html:139
 msgid "Re-ordering..."
-msgstr ""
+msgstr "Ponovno naručivanje...."
 
 #: templates/oscar/customer/order/order_detail.html:54
 #: templates/oscar/dashboard/ranges/range_product_list.html:112
 msgid "Re-order"
-msgstr ""
+msgstr "Ponovno naruči"
 
 #: templates/oscar/customer/order/order_detail.html:57
 #: templates/oscar/customer/wishlists/wishlists_detail.html:54
@@ -6698,22 +6698,22 @@ msgstr ""
 #: templates/oscar/customer/order/order_detail.html:68
 #: templates/oscar/dashboard/orders/order_detail.html:168
 msgid "Basket total (excl. discounts)"
-msgstr ""
+msgstr "Košarica ukupno (bez poreza)"
 
 #: templates/oscar/customer/order/order_detail.html:86
 #: templates/oscar/dashboard/orders/order_detail.html:187
 msgid "Basket total (inc. discounts)"
-msgstr ""
+msgstr "Košarica ukupno (uključujući porez)"
 
 #: templates/oscar/customer/order/order_detail.html:101
 #: templates/oscar/dashboard/orders/order_detail.html:206
 msgid "Shipping total (excl. discounts)"
-msgstr ""
+msgstr "Dostava ukupno (uključujući porez)"
 
 #: templates/oscar/customer/order/order_detail.html:114
 #: templates/oscar/dashboard/orders/order_detail.html:225
 msgid "Shipping total (inc. discounts)"
-msgstr ""
+msgstr "Dostava ukupno (bez poreza)"
 
 #: templates/oscar/customer/order/order_detail.html:119
 #: templates/oscar/dashboard/orders/order_detail.html:233
@@ -6722,7 +6722,7 @@ msgstr ""
 
 #: templates/oscar/customer/order/order_detail.html:139
 msgid "Re-order all items"
-msgstr ""
+msgstr "Ponovno naruči sve artikle"
 
 #: templates/oscar/customer/order/order_detail.html:155
 msgid "Contact Number"
