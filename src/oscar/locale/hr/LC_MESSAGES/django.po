@@ -6438,7 +6438,7 @@ msgstr ""
 #: templates/oscar/customer/emails/base.txt:4
 #, python-format
 msgid "The %(name)s team"
-msgstr ""
+msgstr "%(name)s tim"
 
 #: templates/oscar/customer/emails/commtype_email_changed_body.html:6
 #, python-format
@@ -6479,21 +6479,23 @@ msgid ""
 "We are pleased to confirm your order %(order_number)s has been received and\n"
 "will be processed shortly."
 msgstr ""
+"Potvrđujemo da je vaša narudžba %(order_number)s bila primljena i biti će \n"
+"procesirana ubrzo."
 
 #: templates/oscar/customer/emails/commtype_order_placed_body.html:9
 #: templates/oscar/customer/emails/commtype_order_placed_body.txt:6
 msgid "Your order contains:"
-msgstr ""
+msgstr "Vaša narudžba sadrži:"
 
 #: templates/oscar/customer/emails/commtype_order_placed_body.html:13
 #: templates/oscar/customer/emails/commtype_order_placed_body.txt:8
 msgid "quantity:"
-msgstr ""
+msgstr "količina:"
 
 #: templates/oscar/customer/emails/commtype_order_placed_body.html:13
 #: templates/oscar/customer/emails/commtype_order_placed_body.txt:8
 msgid "price:"
-msgstr ""
+msgstr "cijena:"
 
 #: templates/oscar/customer/emails/commtype_order_placed_body.html:17
 #: templates/oscar/customer/emails/commtype_order_placed_body.txt:10
