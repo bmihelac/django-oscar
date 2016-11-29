@@ -5646,7 +5646,7 @@ msgstr "Informacije o artiklu"
 #: templates/oscar/dashboard/catalogue/product_class_list.html:9
 #: templates/oscar/dashboard/orders/line_detail.html:47
 msgid "Product Type"
-msgstr ""
+msgstr "Tip artikla"
 
 #: templates/oscar/catalogue/detail.html:120
 msgid "Price (incl. tax)"
@@ -5654,19 +5654,19 @@ msgstr ""
 
 #: templates/oscar/catalogue/detail.html:127
 msgid "Availability"
-msgstr ""
+msgstr "Dostupnost"
 
 #: templates/oscar/catalogue/detail.html:139
 msgid "Number of reviews"
-msgstr ""
+msgstr "Broj recenzija"
 
 #: templates/oscar/catalogue/detail.html:151
 msgid "See all reviews"
-msgstr ""
+msgstr "Pregled svih recenzija"
 
 #: templates/oscar/catalogue/detail.html:153
 msgid "Customer Reviews"
-msgstr ""
+msgstr "Recenzije kupaca"
 
 #: templates/oscar/catalogue/detail.html:160
 #, python-format
@@ -5676,14 +5676,18 @@ msgid ""
 "first to write one</a>.\n"
 "                        "
 msgstr ""
+"Ovaj artikl još uvijek nema niti jednu recenziju -\n"
+"                            <a href=\"%(add_review_url)s#addreview\">budite prvi "
+"i koji će napisati</a>.\n"
+"                        "
 
 #: templates/oscar/catalogue/detail.html:164
 msgid "This product does not have any reviews yet"
-msgstr ""
+msgstr "Ovaj artikl još uvijek nema recenzija"
 
 #: templates/oscar/catalogue/detail.html:183
 msgid "Recommended items"
-msgstr ""
+msgstr "Preporučeni artikli"
 
 #: templates/oscar/catalogue/partials/add_to_basket_form.html:13
 #: templates/oscar/catalogue/partials/add_to_basket_form_compact.html:12
@@ -5732,6 +5736,9 @@ msgid ""
 "                                            Add to '%(name)s' wish list\n"
 "                                        "
 msgstr ""
+"\n"
+"                                            Dodaj u '%(name)s' listu želja\n"
+"                                        "
 
 #: templates/oscar/catalogue/partials/add_to_wishlist.html:24
 msgid "Create a new wishlist"
@@ -5745,6 +5752,10 @@ msgid ""
 "\">'%(name)s'</a> wishlist.</span>\n"
 "                "
 msgstr ""
+"\n"
+"                    <span class=\"pull-left\">Artikl je u <a href=\"%(url)s"
+"\">'%(name)s'</a> listi želja.</span>\n"
+"                "
 
 #: templates/oscar/catalogue/partials/add_to_wishlist.html:41
 #: templates/oscar/customer/wishlists/wishlists_delete_product.html:32
@@ -5765,6 +5776,9 @@ msgid ""
 "                Reviewed by you on %(review_date)s\n"
 "                "
 msgstr ""
+"\n"
+"                Ocijenili ste %(review_date)s\n"
+"                "
 
 #: templates/oscar/catalogue/partials/review.html:27
 #, python-format
@@ -5774,6 +5788,10 @@ msgid ""
 "%(review_date)s\n"
 "                "
 msgstr ""
+"\n"
+"                    Ocijenjeno od strane <strong>%(name)s</strong> "
+"%(review_date)s\n"
+"                "
 
 #: templates/oscar/catalogue/partials/review.html:31
 msgid "Permalink"
@@ -5781,7 +5799,7 @@ msgstr ""
 
 #: templates/oscar/catalogue/partials/review.html:36
 msgid "Is this review helpful?"
-msgstr ""
+msgstr "Da li je ova ocjena koristna?"
 
 #: templates/oscar/catalogue/partials/review.html:40
 #: templates/oscar/dashboard/offers/offer_list.html:65
@@ -5815,7 +5833,7 @@ msgstr[2] ""
 
 #: templates/oscar/catalogue/partials/review.html:58
 msgid "This review has no votes."
-msgstr ""
+msgstr "Ova ocjena nema glasova."
 
 #: templates/oscar/catalogue/partials/stock_record.html:9
 msgid "Free"
@@ -5839,7 +5857,7 @@ msgstr[2] ""
 #: templates/oscar/customer/anon_order.html:79
 #: templates/oscar/customer/order/order_detail.html:36
 msgid "Write a review"
-msgstr ""
+msgstr "Napišite recenziju"
 
 #: templates/oscar/catalogue/reviews/review_detail.html:31
 #: templates/oscar/catalogue/reviews/review_list.html:30
@@ -5848,7 +5866,7 @@ msgstr "Korisničke recenzije"
 
 #: templates/oscar/catalogue/reviews/review_form.html:8
 msgid "Leave a product review"
-msgstr ""
+msgstr "Ostavite recenziju artikla"
 
 #: templates/oscar/catalogue/reviews/review_form.html:47
 #: templates/oscar/checkout/shipping_address.html:42
@@ -5873,26 +5891,26 @@ msgstr ""
 #: templates/oscar/dashboard/vouchers/voucher_form.html:45
 #: templates/oscar/partials/form.html:11
 msgid "Saving..."
-msgstr ""
+msgstr "Spremanje...."
 
 #: templates/oscar/catalogue/reviews/review_form.html:47
 msgid "Save review"
-msgstr ""
+msgstr "Spremi recenciju"
 
 #: templates/oscar/catalogue/reviews/review_list.html:44
 #: templates/oscar/partials/nav_accounts.html:29
 msgid "Go"
-msgstr ""
+msgstr "Naprijed"
 
 #: templates/oscar/catalogue/reviews/review_list.html:53
 msgid "This product does not have any reviews yet."
-msgstr ""
+msgstr "Ovaj artikl nema recenziju."
 
 #: templates/oscar/checkout/checkout.html:34
 #: templates/oscar/checkout/checkout.html:65
 #: templates/oscar/checkout/checkout.html:88
 msgid "Change"
-msgstr ""
+msgstr "Promjeni"
 
 #: templates/oscar/checkout/checkout.html:45
 #: templates/oscar/checkout/thank_you.html:48
