@@ -5639,7 +5639,7 @@ msgstr "Opis proizvoda"
 
 #: templates/oscar/catalogue/detail.html:101
 msgid "Product Information"
-msgstr ""
+msgstr "Informacije o artiklu"
 
 #: templates/oscar/catalogue/detail.html:110
 #: templates/oscar/dashboard/catalogue/product_class_form.html:16
