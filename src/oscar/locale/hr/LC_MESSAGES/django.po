@@ -1555,7 +1555,7 @@ msgstr ""
 msgid ""
 "Create your account and then you will be redirected back to the checkout "
 "process"
-msgstr "Kreirajte korisnički račun i biti ćete preusmjeteni nazad na proces"
+msgstr "Kreirajte korisnički račun i biti ćete preusmjeteni nazad na proces "
 "narudžbe"
 
 #: apps/checkout/views.py:214
@@ -5925,22 +5925,22 @@ msgstr "Telefon"
 
 #: templates/oscar/checkout/checkout.html:91
 msgid "Payment details to go here"
-msgstr ""
+msgstr "Ovdje će biti ispisani detalji za plaćanje"
 
 #: templates/oscar/checkout/checkout.html:101
 msgid "Edit order contents"
-msgstr ""
+msgstr "Uredi sadržaj narudžbe"
 
 #: templates/oscar/checkout/checkout.html:105
 #: templates/oscar/checkout/thank_you.html:113
 #: templates/oscar/customer/anon_order.html:53
 #: templates/oscar/dashboard/orders/order_detail.html:86
 msgid "Order contents"
-msgstr ""
+msgstr "Sadržaj narudžbe"
 
 #: templates/oscar/checkout/checkout.html:109
 msgid "Item"
-msgstr ""
+msgstr "Artikl"
 
 #: templates/oscar/checkout/gateway.html:7
 msgid "Checkout gateway"
@@ -5952,12 +5952,12 @@ msgstr ""
 
 #: templates/oscar/checkout/gateway.html:39
 msgid "Get a password reminder"
-msgstr ""
+msgstr "Zahtjevajte podsjetnik za lozinku"
 
 #: templates/oscar/checkout/gateway.html:59
 #: templates/oscar/checkout/shipping_address.html:77
 msgid "Continuing..."
-msgstr ""
+msgstr "Nastavak..."
 
 #: templates/oscar/checkout/gateway.html:59
 #: templates/oscar/checkout/payment_details.html:29
@@ -5988,7 +5988,7 @@ msgstr "5. Potvrda"
 
 #: templates/oscar/checkout/payment_details.html:5
 msgid "Payment details"
-msgstr ""
+msgstr "Plaćanje"
 
 #: templates/oscar/checkout/payment_details.html:12
 msgid "Enter payment details"
