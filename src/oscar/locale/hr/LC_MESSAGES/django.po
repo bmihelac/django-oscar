@@ -4502,7 +4502,7 @@ msgstr ""
 #: templates/oscar/checkout/thank_you.html:79
 #: templates/oscar/dashboard/orders/order_detail.html:88
 msgid "Payment"
-msgstr ""
+msgstr "Plaćanje"
 
 #: apps/payment/forms.py:29
 msgid "Card number"
@@ -6098,6 +6098,9 @@ msgid ""
 "        Order %(number)s: confirmation\n"
 "    "
 msgstr ""
+"\n"
+"        Narudžba %(number)s: potvrda\n"
+"    "
 
 #: templates/oscar/checkout/thank_you.html:25
 #, python-format
@@ -6108,12 +6111,19 @@ msgid ""
 "        <strong>%(number)s</strong>.\n"
 "        "
 msgstr ""
+"\n"
+"        Vaša narudžba je spremljena i poslali smo vam e-mail sa potvrdom -  "
+"broj narudžbe je\n"
+"        <strong>%(number)s</strong>.\n"
+"        "
 
 #: templates/oscar/checkout/thank_you.html:29
 msgid ""
 "Please make a note of this reference or print this page and quote it in any "
 "communication with us regarding your order."
 msgstr ""
+"Molimo sačuvajte broj narudžbe ili otisnite ovu stranicu i navedite broj narudžbe "
+"u bilo kojoj komunikaciji sa nama vezanoj za ovu narudžbu."
 
 #: templates/oscar/checkout/thank_you.html:62
 msgid "No shipping address required."
@@ -6127,6 +6137,10 @@ msgid ""
 "(reference: %(reference)s)\n"
 "                            "
 msgstr ""
+"\n"
+"                                %(amount)s od %(type)s "
+"(reference: %(reference)s)\n"
+"                            "
 
 #: templates/oscar/checkout/thank_you.html:87
 #, python-format
@@ -6135,6 +6149,9 @@ msgid ""
 "                                Allocation of %(amount)s from type %(type)s\n"
 "                            "
 msgstr ""
+"\n"
+"                                %(amount)s od %(type)s\n"
+"                            "
 
 #: templates/oscar/checkout/thank_you.html:94
 msgid "No payment was required for this order."
@@ -6142,7 +6159,7 @@ msgstr ""
 
 #: templates/oscar/checkout/thank_you.html:118
 msgid "Items purchased"
-msgstr ""
+msgstr "Naručeni artikli"
 
 #: templates/oscar/checkout/thank_you.html:141
 #, python-format
@@ -6182,7 +6199,7 @@ msgstr ""
 
 #: templates/oscar/checkout/thank_you.html:314
 msgid "Print this page"
-msgstr ""
+msgstr "Ispis stranice"
 
 #: templates/oscar/checkout/user_address_delete.html:29
 #: templates/oscar/customer/address/address_delete.html:15
